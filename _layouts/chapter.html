@@ -17,6 +17,32 @@ layout: default
         <img src="/assets/img/{{ page.img_footer }}">
     {% endif %}
 
+    {% if page.collection %}
+        {% assign links = site[page.collection]  %}
+    {% endif %}
+    
+    <!-- 
+      From https://gist.github.com/budparr/3e637e575471401d01ec
+    -->
+
+    {% for link in links %}
+        {% if link.title == page.title %}
+            {% unless forloop.first %}
+                {% assign prev = tmpprev %}
+            {% endunless %}
+            {% unless forloop.last %}
+                {% assign next = links[forloop.index] %}
+            {% endunless %}
+        {% endif %}
+        {% assign tmpprev = link %}
+    {% endfor %}
+
+    <ul class="prevnext">
+        <li>{% if prev %}<a href="{{ prev.url}}">&lt; {{ prev.title }}</a>{% endif %}</li>
+        <li>{% if next %}<a href="{{ next.url}}">{{ next.title }} &gt;</a>{% endif %}</li>
+    </ul>
+
+
   </div>
 
 </article>

@@ -7,19 +7,25 @@ img_header: header-04.png
 img_footer: summary-04.png
 ---
 
-The powerful force that allows even those with modest incomes to accumulate large savings is called compounding returns. It’s the notion of earning money on past earnings. If this is new to you, pay attention; this will be the most important chapter of the guide.
+The powerful force that allows even those with modest incomes to accumulate large savings is called **compounding returns**. It’s the notion of *earning money on past earnings*. If this is new to you, pay attention—this will be the most important chapter of the guide.
 
-Say you have $100 in savings, earning 4%. After the first year, you’ll have $104—your original $100, plus $4 of earnings. After the second year you’ll have $108.16—another $4 earned on your original $100 savings, plus $0.16 earned on last year’s earnings of $4. After the third year, $112.49—another $4 on your original $100, plus $0.33 on your last two years earnings of $8.16.
+Let’s walk through an example:
 
-Earnings on earnings, year after year. It’s hard to believe such a simple concept could be so important. But after many years of investing, the majority of your savings will have come from compound returns, rather than original investments.
+- Say you have $100 in savings, earning 4% per year. After the first year, you’ll have $104—your original $100, plus $4 of earnings. Makes sense, right? 
 
-Let’s look at an example:
+- After the second year you’ll have $108.16—another $4 earned on your original $100 savings, plus $0.16 earned on last year’s earnings of $4.
 
-Stephanie is 25, and earns $50,000. Her salary increases each year with inflation. If she saves just 10% of her income, and earns an 8% annual return, then at age 55 she will have invested $280,000 of her income. Her invested savings, however, will have accumulated nearly one million dollars!
+- After the third year, $112.49—another $4 on your original $100, plus $0.33 on your last two years earnings of $8.16.
+
+*Earnings on earnings, year after year.* It’s hard to believe such a simple concept could be so important. But after many years of investing, *the majority of your savings will have come from compound returns*, rather than original investments.
+
+Let’s look at another example:
+
+Stephanie is 25, and earns $50,000. Her salary increases each year with inflation. If she saves just 10% of her income, and earns an 8% annual return, then at age 55 she will have *invested* $280,000, but will have accumulated *nearly one million dollars*!
 
 ![](/assets/img/chart-04.png)
 
-In the above chart, we see some interesting things about the growth of her savings.
+The above chart highlights some important concepts.
 
 - **The power of compounding returns** — After 30 years, far more of her final balance of $920,000 comes from earnings ($640,000), than from the money she actually saved ($280,000). Earnings on earnings.
 

@@ -34,7 +34,7 @@ Simple and diverse. During the 34-year period from 1974 to 2008 (the data I have
 
 ### Option 2: What I do
 
-My personal asset allocation was proposed by the late Harry Browne and is called the Permanent Portfolio. During the 34-year period between 1974 and 2008 (the years for which I have data), this allocation also had an annual return of 9.3%, but with the benefit of a much lower volatility.
+My personal portfolio is a slight variation of an asset allocation proposed by the late Harry Browne, called the Permanent Portfolio. During the 34-year period between 1974 and 2008 (the years for which I have data), this allocation also had an annual return of 9.3%, but with the benefit of a much lower volatility.
 
 The Permanent Portfolio is based on the idea that there are four possible states of the economy:
 
