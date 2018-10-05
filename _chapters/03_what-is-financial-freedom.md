@@ -15,15 +15,16 @@ There’s a rule of thumb which says that if you annually withdraw no more than 
 
 Say you want to stop working, and you need $120,000 per year to cover your expenses. In this case you’d need to save $3 million to achieve financial freedom. Say you could live on $40,000 per year. In that case, you’d only need $1 million. Or say you would like to change careers and $10,000 of annual income would give you the cushion to do that, then you’d need $250,000 to achieve financial freedom.
 
+## It worked for me
+
 At age 20, I began saving and investing a large portion of my earnings; income initially from a job at a grocery store, later from a job at a restaurant, and finally from my first job as an engineer.
 
-Over the course of 15 years, my investments earned an annualized return of 11%. At age 35, those investments had grown enough to provided the freedom I needed to quit my job and finance a new business—allowing me to live where I wanted and do the work I love.
+Over the course of 15 years, my investments earned an annualized return of 11%. At age 35, those investments had grown enough to provided the freedom I needed to quit my job and finance a new business—which ultimately allowed me to live where I wanted and do the work I love.
 
 ## It all starts with saving
 
-For most people, like myself, achieving financial freedom will require the consistent saving of a large portion of their income, coupled with the growth that can be realized through investing.
+For most people, like myself, achieving financial freedom requires the consistent saving of a large portion of their income, coupled with the growth that can be realized through investing.
 
-The following chapters will teach you about investing; concepts which are powerful enough to turn even relatively modest savings into surprisingly large amounts of money.
-That’s why this guide is so important.
+If you commit to saving, the following chapters will teach you about investing, including concepts which are powerful enough to turn even modest savings into surprisingly large amounts of money.
 
-But it all starts with regular savings, and the potential for your own success will ultimately be related to the amount and consistency with which you can save.
+**But it all starts with regular savings, and the potential for your own success will ultimately be related to the amount and consistency with which you can save.**
