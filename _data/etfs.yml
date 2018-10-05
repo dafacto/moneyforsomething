@@ -1,0 +1,118 @@
+vv:
+  name: Vanguard Large-Cap Stocks ETF
+  symbol: VV
+  cost: 0.05%
+  url: https://investor.vanguard.com/etf/profile/vv
+
+vbr:
+  name: Vanguard Small-Cap Value ETF
+  symbol: VBR
+  cost: 0.07%
+  url: https://investor.vanguard.com/etf/profile/vbr
+
+vti:
+  name: Vanguard Total Stock Market ETF
+  symbol: VTI
+  cost: 0.04%
+  url: https://investor.vanguard.com/etf/profile/vti
+
+tlt:
+  name: iShares 20+ Year Treasury Bond ETF
+  symbol: TLT
+  cost: 0.15%
+  url: https://www.ishares.com/us/products/239454/TLT
+
+iau:
+  name: iShares Gold Trust
+  symbol: IAU
+  cost: 0.25%
+  url: https://www.ishares.com/us/products/239561/IAU
+
+shv:
+  name: iShares Short Treasury Bond ETF
+  symbol: SHV
+  cost: 0.15%
+  url: https://www.ishares.com/us/products/239466/SHV
+  
+cspx:
+  name: iShares Core S&P 500 UCITS ETF
+  symbol: CSPX
+  cost: 0.07%
+  url: https://www.ishares.com/uk/individual/en/products/253743/ishares-sp-500-b-ucits-etf-acc-fund?switchLocale=y&siteEntryPassthrough=true
+
+isp6:
+  name: iShares S&P SmallCap 600 UCITS ETF
+  symbol: ISP6
+  cost: 0.40%
+  url: https://www.ishares.com/uk/individual/en/products/251920/ishares-sp-smallcap-600-ucits-etf
+  
+idtl:
+  name: iShares USD Treasury Bond 20+ Year UCITS ETF
+  symbol: IDTL
+  cost: 0.20%
+  url: https://www.ishares.com/uk/individual/en/products/272124/ishares-usd-treasury-bond-20-yr-ucits-etf
+
+ibts:
+  name: iShares USD Treasury Bond 1-3yr UCITS ETF
+  symbol: IBTS
+  cost: 0.20%
+  url: https://www.ishares.com/uk/individual/en/products/251715/ishares-treasury-bond-13yr-ucits-etf
+
+sgln:
+  name: iShares Physical Gold ETC
+  symbol: SGLN
+  cost: 0.25%
+  url: https://www.ishares.com/uk/individual/en/products/258441/ishares-physical-gold-etc-fund
+  
+vxus:
+  name: Vanguard Total International Stock ETF
+  symbol: VXUS
+  cost: 0.11%
+  url: https://investor.vanguard.com/etf/profile/VXUS
+
+vnq:
+  name: Vanguard Real Estate ETF
+  symbol: VNQ
+  cost: 0.12%
+  url: https://investor.vanguard.com/etf/profile/VNQ
+
+bnd:
+  name: Vanguard Total Bond Market ETF
+  symbol: BND
+  cost: 0.05%
+  url: https://investor.vanguard.com/etf/profile/BND
+
+vea:
+  name: Vanguard FTSE Developed Markets ETF
+  symbol: VEA
+  cost: 0.07%
+  url: https://investor.vanguard.com/etf/profile/VEA
+  
+voo:
+  name: Vanguard S&P 500 ETF
+  symbol: VOO
+  cost: 0.04%
+  url: https://investor.vanguard.com/etf/profile/VOO
+
+vb:
+  name: Vanguard Small-Cap ETF
+  symbol: VB
+  cost: 0.05%
+  url: https://investor.vanguard.com/etf/profile/VB
+
+vwo:
+  name: Vanguard FTSE Emerging Markets ETF
+  symbol: VWO
+  cost: 0.14%
+  url: https://investor.vanguard.com/etf/profile/VWO
+
+tip:
+  name: iShares TIPS Bond ETF
+  symbol: TIP
+  cost: 0.20%
+  url: https://www.ishares.com/us/products/239467/TIP
+
+
+
+
+ 

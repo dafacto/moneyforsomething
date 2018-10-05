@@ -1,0 +1,14 @@
+- name: Schwab
+  country: USA
+  url: http://www.schwab.com/
+  description: Schwab is one of the oldest and largest brokerages in the United States, that consistently ranks among the best in both costs and customer service. I list it first, as they are one of the few brokerages willing to open accounts for non-US citizens. Although there is no minimum balance for US citizens, there is one for non-US citizens of $10,000.
+  
+- name: Vanguard
+  country: USA
+  url: http://www.vanguard.com/
+  description: Vanguard is another large and established brokerage in the United States, and currently offers free trades on Vanguard ETFs. Since the allocations recommended in Money for Something are based mostly on Vanguard ETFs, this could be a good option.
+  
+- name: De Giro
+  country: Europe
+  url: https://www.degiro.co.uk/
+  description: Although I don’t have personal experience with them, De Giro seems to have become one of the most popular European low-cost brokerages. Originally founded in Holland, De Giro now has branches in nearly all European countries. I have several friends who invest with De Giro in Spain, and have been very happy with them.
