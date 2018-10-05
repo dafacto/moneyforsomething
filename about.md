@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![](/assets/img/matt-black-and-white.jpg)
+
 My name is Matt Henderson, and I grew up in Georgia and studied electrical engineering in Atlanta at the Georgia Institute of Technology. With an interest in Europe—and a Spanish girlfriend—I finished my studies at Georgia Tech’s campus in France.
 
 I started my career at the European Space Agency in Germany, where I founded an engineering company called Makalu Aerospace that was later sold to a public company in the United Kingdom. After moving to Spain, I started an American company called Makalu Interactive that has designed and built products for brands like Google and Virgin America.
