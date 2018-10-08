@@ -1,28 +1,441 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-05T17:50:45+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Money for Something</title><subtitle>Money for Something is a book that teaches the fundamentals of the single method of investing that has worked for generations. It can be read in one hour, and is free.</subtitle><entry><title type="html">The opportunity cost of spending today</title><link href="http://localhost:4000/blog/the-opportunity-cost-of-spending-today/" rel="alternate" type="text/html" title="The opportunity cost of spending today" /><published>2015-10-25T00:00:00+02:00</published><updated>2015-10-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/opportunity-cost-of-spending-today</id><content type="html" xml:base="http://localhost:4000/blog/the-opportunity-cost-of-spending-today/">&lt;p&gt;The power of compounding interest can be understood through the “rule of 72”—i.e. the number of years it takes to double your money is approximately equal to 72 divided by your rate of return. For example, assuming your invested savings compound at a rate of 7%, you would double your money every 10 years.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-08T13:13:04+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Money for Something</title><subtitle>Money for Something is a book that teaches the fundamentals of the single method of investing that has worked for generations. It can be read in one hour, and is free.</subtitle><entry><title type="html">Overcompensate to meet your financial goals</title><link href="http://localhost:4000/blog/over-compensate-to-reach-your-financial-goals/" rel="alternate" type="text/html" title="Overcompensate to meet your financial goals" /><published>2016-07-20T00:00:00+02:00</published><updated>2016-07-20T00:00:00+02:00</updated><id>http://localhost:4000/blog/overcompensate-to-reach-your-goals</id><content type="html" xml:base="http://localhost:4000/blog/over-compensate-to-reach-your-financial-goals/">&lt;p&gt;Let’s imagine you’re in your early thirties, have no savings, but have recently read my book and now understand that through a disciplined program of saving and investing over the next 20 years, you still have time to secure a comfortable financial future.&lt;/p&gt;
+
+&lt;p&gt;You’ve calculated where you need to be in 20 years, figured out how much you’ll need to save, reviewed your essential expenses, and it all seems to fit. You have a plan, and are ready to go. Before getting started, here are some things of critical importance to keep in mind.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-prioritization-of-time&quot;&gt;The prioritization of time&lt;/h2&gt;
+
+&lt;p&gt;You must understand that the earlier years of your investing program will be dramatically more important than the latter, and therefore must be prioritized. Imagine you invest $1,000 annually over 20 years, and earn 8% per year. At the end of 20 years, you will have invested at total of $20,000, which will have grown to a final balance of about $46,000.&lt;/p&gt;
+
+&lt;p&gt;We now understand how that happens through compounding returns, which is &lt;em&gt;why&lt;/em&gt; we still have a chance at a secure future. What might not be so apparent, however, is the importance of &lt;em&gt;when&lt;/em&gt; each investment contribution was made. Consider these eye-opening numbers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The $5,000 you invest in the first five years will contribute &lt;strong&gt;41%&lt;/strong&gt; to your final savings.&lt;/li&gt;
+  &lt;li&gt;The $10,000 you invest in the first 10 years will contribute  &lt;strong&gt;over 70%&lt;/strong&gt; to your final savings.&lt;/li&gt;
+  &lt;li&gt;The last $10,000 you invest, during the final 10 years, will contribute &lt;strong&gt;less than 30%&lt;/strong&gt; to your final savings.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Why is this so important?&lt;/p&gt;
+
+&lt;h2 id=&quot;over-compensate-to-compensate&quot;&gt;Over-compensate to compensate&lt;/h2&gt;
+
+&lt;p&gt;If until now, you’ve spent all the money you’ve earned, you must understand that to reach your investing goals, you have to &lt;em&gt;overcome a behavioral pattern developed over a long period of time&lt;/em&gt;. And that is where most people will fail. They will either not recognize, nor sufficiently appreciate, the importance and difficulty of that task.&lt;/p&gt;
+
+&lt;p&gt;Derek Sivers had a &lt;a href=&quot;https://sivers.org/compensate&quot;&gt;great article&lt;/a&gt; that talks about the role of &lt;em&gt;over-compensation&lt;/em&gt; in the successful changing of a habit. Your best hope of successfully changing your habits is to make a &lt;em&gt;quantum leap&lt;/em&gt; to Path B—far, far away from the Path A that you’ve lived on for the past decade. In the words of Derek Sivers—&lt;em&gt;you have to over-compensate&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Given the criticality of those first years, you can’t afford the risk in trying to &lt;em&gt;transition your way gradually&lt;/em&gt; towards the path you need to be on. Like the smoker who tries to quit through reduction, at best it will take longer, and at worse—and what usually happens—it will fail altogether. And in your case, taking longer can equate to failure. If you fail &lt;em&gt;initially&lt;/em&gt;, then you may well find yourself at point in the &lt;em&gt;near future&lt;/em&gt; where you’ve missed the boat, and &lt;em&gt;no longer have time to catch up&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;So if you want to succeed, start by saving and investing &lt;em&gt;more than your plan targets&lt;/em&gt;. &lt;em&gt;Spend less&lt;/em&gt; in your daily life than you’d otherwise budget. Eliminate unnecessary expenses. Say no to most everything. &lt;em&gt;Over-compensate&lt;/em&gt; as much as you can, as every dollar counts, especially at the beginning.&lt;/p&gt;
+
+&lt;p&gt;It’s not forever. Later down the road, you can begin to dial back and increase your standard of living, although you might just discover unexpected happiness along “Path B”—which wouldn’t be surprising if you’ve read, “The Millionaire Next Door”. In any case, you’ll likely reach your goal, for that you’ll be thankful for the rest of your life.&lt;/p&gt;</content><author><name></name></author><summary type="html">Let’s imagine you’re in your early thirties, have no savings, but have recently read my book and now understand that through a disciplined program of saving and investing over the next 20 years, you still have time to secure a comfortable financial future.</summary></entry><entry><title type="html">Predicting the price of oil</title><link href="http://localhost:4000/blog/predicting-the-price-of-oil/" rel="alternate" type="text/html" title="Predicting the price of oil" /><published>2016-01-16T00:00:00+01:00</published><updated>2016-01-16T00:00:00+01:00</updated><id>http://localhost:4000/blog/predicting-the-price-of-oil</id><content type="html" xml:base="http://localhost:4000/blog/predicting-the-price-of-oil/">&lt;p&gt;In Money for Something, we talk about the importance of investing in a diversified portfolio of &lt;a href=&quot;http://www.moneyforsomething.org/book/passive-investments/&quot;&gt;passive assets that track entire markets&lt;/a&gt; because of the overwhelming data that demonstrates that &lt;em&gt;nobody can predict the market&lt;/em&gt;. Along those lines, I wanted to give an example from recent history.&lt;/p&gt;
+
+&lt;p&gt;Between June and December of 2008, the price of oil plummeted in a crash. The price of the United States Oil Fund, an ETF, went from $116 per share to around $30.&lt;/p&gt;
+
+&lt;p&gt;By March of 2009, the ETF price had recovered to $40, people like Jim Rogers were writing about the coming oil scarcity crisis, and the world was talking as if buying oil was the opportunity of a lifetime.&lt;/p&gt;
+
+&lt;p&gt;A friend who was bullish on oil commented, “Is there any scenario in which you could conceivably imagine that in &lt;em&gt;five years from now&lt;/em&gt;, a barrel of oil is less than $150?”&lt;/p&gt;
+
+&lt;p&gt;Let’s take a look at what did happen over the next six and a half years for those investors:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/files/Screen%20Shot%202016-01-18%20at%2013.07.28.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Had you bought USO in March of 2009, you’d be &lt;strong&gt;down today by 77%&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let’s see what would have happened if you’d given up on trying to predict things, and just bought the whole stock market. Here’s the chart of the Vanguard Total Stock Market ETF, VTI. Buying a share of VTI is the same as buying a tiny share of nearly every public company in the United States.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/files/Screen%20Shot%202016-01-18%20at%2013.19.06.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Had you bought the entire US stock market in April of 2009, you’d be &lt;strong&gt;up today by 120%&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Keep this in mind next time somebody tells you about a “sure bet”.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Investing vs speculating</title><link href="http://localhost:4000/blog/investing-vs-speculating/" rel="alternate" type="text/html" title="Investing vs speculating" /><published>2015-12-27T00:00:00+01:00</published><updated>2015-12-27T00:00:00+01:00</updated><id>http://localhost:4000/blog/investing-vs-speculation</id><content type="html" xml:base="http://localhost:4000/blog/investing-vs-speculating/">&lt;p&gt;A &lt;em&gt;critically&lt;/em&gt; important concept to understand is the difference between &lt;em&gt;investing&lt;/em&gt; and &lt;em&gt;speculating&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Harry Browne defined it best in his book, &lt;a href=&quot;http://www.amazon.com/Fail-Safe-Investing-Lifelong-Financial-Security-ebook/dp/B003JMF4GG/&quot;&gt;Fail-Safe Investing&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When you invest, you accept whatever return the markets are paying investors in general. When you speculate, you attempt to beat that return—to do better than other investors are doing—through clever timing, forecasting or selection.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As humans, we’re terribly susceptible to &lt;a href=&quot;https://en.wikipedia.org/wiki/Illusory_superiority&quot;&gt;over-estimating our abilities&lt;/a&gt;. As a result, almost everyone who invests will from time to time believe—despite overwhelming evidence to the contrary—they can do better than the market itself.&lt;/p&gt;
+
+&lt;p&gt;You’re convinced now’s the time to buy oil. You believe that particular stock can only go up. The advice of that friend who’s a “market expert” seems so logical (and he claims he’s done so well.)&lt;/p&gt;
+
+&lt;p&gt;It’s difficult and frustrating to go against our human nature, and so we shouldn’t completely deny our desire to speculate. But if we’re going to speculate, it has to be contained. The solution Harry Browne recommended was to maintain two investment portfolios—one “permanent”, invested according to the principles outlined in &lt;a href=&quot;/book/&quot;&gt;my book&lt;/a&gt;, and one “speculative”, invested any way you like.&lt;/p&gt;
+
+&lt;p&gt;But we must follow the rules:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The speculative portfolio can only contain money we’re prepared to lose. Those funds which are precious must be invested in our permanent portfolio, because we know that in the long run, &lt;em&gt;we can not beat the market&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;We can never move money from the permanent portfolio into the speculative.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For myself, I speculate with about 10% of my savings, and will from time to time post articles about those investments here on the blog. As we look at those investments, which currently include Apple stock, Bitcoin, LendingClub and Bolstr, it’s important to remember that they are speculative.&lt;/p&gt;
+
+&lt;p&gt;Related chapters from the book:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/book/passive-investments/&quot;&gt;Chapter 11: Passive Investments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">How to invest over a lifetime</title><link href="http://localhost:4000/blog/how-to-invest-over-a-lifetime/" rel="alternate" type="text/html" title="How to invest over a lifetime" /><published>2015-12-25T00:00:00+01:00</published><updated>2015-12-25T00:00:00+01:00</updated><id>http://localhost:4000/blog/lifecycle-investing</id><content type="html" xml:base="http://localhost:4000/blog/how-to-invest-over-a-lifetime/">&lt;p&gt;We live in an age in which the responsibility for providing for one’s financial needs during retirement mostly lies on the individual. A historically successful approach involves persistent saving and investing according to the fundamentals introduced in my book, Money for Something. This article looks specifically at asset allocation over one’s lifetime.&lt;/p&gt;
+
+&lt;p&gt;Securing one’s retirement in this way carries uncertainties, but there are two key variables under control of the investor:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The savings rate&lt;/li&gt;
+  &lt;li&gt;The choice of asset allocation&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Given a particular savings rate, the choice of asset allocation—i.e. how one’s investments are proportioned among assets of more and less risk—will determine the final value of one’s investments, and is perhaps the most important decision an investor will make.&lt;/p&gt;
+
+&lt;p&gt;The central questions, then, that I want to investigate are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How to select an appropriate asset allocation, given one’s personal situation&lt;/li&gt;
+  &lt;li&gt;How that selection should or should not change over time&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To investigate these questions, I’ve been reading four works:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;[[[Ages of the Investor]]], by William Bernstein&lt;/li&gt;
+  &lt;li&gt;[[[Rational Expectations]]], by William Bernstein&lt;/li&gt;
+  &lt;li&gt;[[[The Affluent Investor]]], by Phil DeMuth&lt;/li&gt;
+  &lt;li&gt;John Norstad’s &lt;a href=&quot;http://www.norstad.org/finance/risk-and-time.html&quot;&gt;articles on investing&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;What I attempt to do in this article is distill and organize their arguments into actionable conclusions, organized in the following sections:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fundamental considerations&lt;/li&gt;
+  &lt;li&gt;Lifecycle allocation recommendations&lt;/li&gt;
+  &lt;li&gt;Open questions&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ve tried to keep the article as concise as possible, moving some interesting but supporting details to the appendices.&lt;/p&gt;
+
+&lt;h2 id=&quot;foundational-considerations&quot;&gt;Foundational considerations&lt;/h2&gt;
+&lt;p&gt;In order to set the groundwork for the lifecycle allocation recommendations, it’s important to understand a series of underlying considerations.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Three aspects of risk&lt;/li&gt;
+  &lt;li&gt;The role of risk tolerance in determining investment policy&lt;/li&gt;
+  &lt;li&gt;Whether and how time reduces risk&lt;/li&gt;
+  &lt;li&gt;The distinction between lump-sum and sequence investing&lt;/li&gt;
+  &lt;li&gt;Varying an asset allocation over time&lt;/li&gt;
+  &lt;li&gt;Asset class converging correlations&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;consideration-1--three-aspects-of-risk&quot;&gt;Consideration 1 — Three aspects of risk&lt;/h3&gt;
+&lt;p&gt;For most people, investing is required to meet their future financial needs for two reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;To protect their savings against the loss of purchasing power that comes through inflation.&lt;/li&gt;
+  &lt;li&gt;Their savings alone are insufficient to cover their needs, and consequently they need a vehicle through which their savings can grow.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But investing rarely ends up exactly as planned, and therefore exposes the investor to the possibility of ending up ahead, or coming up short. Both the target, and the range of results, are determined by the level of risk the investor takes on through investing in a mix of more-risky and less-risky assets—i.e. their choice of “asset allocation”. (For the purpose of this article, we’ll consider stocks as the more-risky asset and bonds as the less-risky.)&lt;/p&gt;
+
+&lt;p&gt;In this regard, Bernstein reminds us that it’s important to consider &lt;em&gt;three&lt;/em&gt; aspects of risk:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Tolerance&lt;/em&gt; for risk — how likely a person is to “stay the course” when experiencing the volatility corresponding to the level of risk they’ve taken on.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Capacity&lt;/em&gt; for risk — The extent to which a person can afford to take on a given level of risk. A retiree who has just enough assets to cover their needs has no capacity to take on risk, while a young person rich in human capital has plenty.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Need&lt;/em&gt; for risk — The extent to which a person needs to take on risk. A retiree with $10M in safe assets has little need to take on risk, while a young person whose savings alone are unlikely to fund their retirement does.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;consideration-2--the-role-of-risk-tolerance-in-the-determination-of-investment-policy&quot;&gt;Consideration 2 — The role of risk tolerance in the determination of investment policy.&lt;/h3&gt;
+&lt;p&gt;Of these three, DeMuth points out that many financial advisors inappropriately focus on tolerance. Paraphrasing DeMuth:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Your psychological predisposition to risk is irrelevant to the means to reach your investment objectives. This would be like a doctor saying that your preference to wear or not to wear a cast should be a factor in evaluating how to treat your broken arm. You should invest in the way that has the greatest prospect to fulfill your investment goals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As we’ll see, however, Bernstein’s recommendations for young people actually gives priority to tolerance (or potential lack thereof.)&lt;/p&gt;
+
+&lt;h3 id=&quot;consideration-3--whether-and-how-time-reduces-risk&quot;&gt;Consideration 3 — Whether and how time reduces risk&lt;/h3&gt;
+&lt;p&gt;Norstad highlights the common, but incorrect, belief that time reduces the risk of a portfolio in the same way that investing in multiple asset classes reduces the risk of a portfolio—i.e. that time diversification works in the same way as asset class diversification.&lt;/p&gt;
+
+&lt;p&gt;This belief comes from the fact that—and read this carefully—as the time horizon increases, the standard deviation of the &lt;em&gt;annualized return&lt;/em&gt; decreases (in proportion to the square root of the time horizon). But while the standard deviation of the annualized return decreases, the standard deviation of the &lt;em&gt;total return&lt;/em&gt; increases (in proportion to the square root of the time horizon). In other words, as time increases, the range of possible final outcomes &lt;em&gt;increases&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Norstad described three arguments against the idea that time reduces risk, which are detailed in Appendix 1:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Samuelson and Merton’s paper on utility theory proves that an iso-elastic investors’ risk attitude is time independent. (An “iso-elastic” investor is one whose attitude toward risk is independent of his level of wealth.)&lt;/li&gt;
+  &lt;li&gt;The probability of shortfall doesn’t take into account the magnitude of shortfall—i.e. one should place a higher weight on the possibility of larger losses, and the probability of larger losses &lt;em&gt;increases with time&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Options pricing to insure risky asset shortfalls increase with time.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;DeMuth points out that Samuelson and Merton’s work implies that, other things being equal, one should not invest differently based on time horizon—i.e. that one’s assumed risk level should not change over time.&lt;/p&gt;
+
+&lt;p&gt;This conclusion, as we will see, doesn’t take into account the aspect of time diversification highlighted in the work of Nalebuff &amp;amp; Ayers.&lt;/p&gt;
+
+&lt;h3 id=&quot;consideration-4--the-distinction-between-lump-sum-vs-sequence-investing&quot;&gt;Consideration 4 — The distinction between lump-sum vs sequence investing&lt;/h3&gt;
+&lt;p&gt;Nalebuff &amp;amp; Ayres argue that time-diversification’s ability to reduce risk depends whether we’re talking about a lump-sum investment made up front, or a sequence of regular investments made over time.&lt;/p&gt;
+
+&lt;p&gt;Bernstein points out that sequence investing can reduce risk over time, but exposes us to a new kind of risk, &lt;em&gt;sequence risk&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;To understand this, Bernstein considers annual investments made over 40 years, under two different circumstances:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;20 years of negative returns, followed by 20 years of positive returns.&lt;/li&gt;
+  &lt;li&gt;20 years of positive returns, followed by 20 years of negative returns.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The first produces a much higher final value, since assets were bought at a much lower average price than in case 2. Or more profoundly, The investor had a higher dollar exposure to stocks during the 20 good years with the first sequence (bad returns first) than with the second. This is known as “sequence risk”.&lt;/p&gt;
+
+&lt;p&gt;However, if instead of annual investments, we consider a lump sum invested at the beginning, the sequence of returns does not matter, as the commutative law of multiplication applies.&lt;/p&gt;
+
+&lt;p&gt;Summarizing Bernstein:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Lump sum investing&lt;/em&gt; is ideal in the Samuelson &amp;amp; Merton sense that it provides a more constant exposure to risk throughout the investing lifecycle, and removes sequence risk. On the other hand, lump sum investing maximizes both potential total risk and return.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Sequence investing&lt;/em&gt; reduces risk over time—it’s nearly impossible for long-term periodic investing in a diversified portfolio to come out behind—but reduces potential total return, and exposes the investor to sequence risk.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;consideration-5--varying-asset-allocation-over-time&quot;&gt;Consideration 5 — Varying asset allocation over time&lt;/h3&gt;
+&lt;p&gt;DeMuth additionally highlights Fisher Black’s work, observing that, paradoxically, a sequence investor’s constant relative risk aversion (i.e. the conclusion of Samuelson &amp;amp; Morton’s utility theory work) prescribes changing one’s asset class exposure over time, once one’s &lt;em&gt;lifetime financial capital&lt;/em&gt; is taken into account.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The principle of time diversification is this: just as an investor should spread his investments across different securities to minimize the risk associated with a given expected return, so also should the investor spread his investments across different time intervals to minimize the risk associated with a given expected return.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When revisiting Samuelson &amp;amp; Merton’s utility theory work, Nalebuff &amp;amp; Ayres concluded that not only should an iso-elastic investor maintain a constant stock allocation (constant risk profile), but should also maintain a &lt;em&gt;constant dollar amount&lt;/em&gt; of stock (constant risk exposure).&lt;/p&gt;
+
+&lt;p&gt;To understand this, the following chart illustrates the lifetime net worth of a sequence investor:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://files.dafacto.com/uploads/lifetime-networth.png&quot; alt=&quot;&quot; title=&quot;Financial net worth over a lifetime&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Consider the example that a given sequence investor’s risk profile is reflected in a 60/40 stock/bond allocation, and his average lifetime wealth is $1M. The would mean that &lt;em&gt;on average&lt;/em&gt; he would want to keep $600k in stocks and $400k in bonds.&lt;/p&gt;
+
+&lt;p&gt;DeMuth points out that a typical sequence investor—with an investment horizon of 75 years between 20 and 95—will not maintain such an average. His largest exposure will be in the middle years, between say 55 and 75, and that’s taking a big risk on one 20-year period. As we’ll see, this leads to the conclusion that one should take on higher risk early and late in life, and less in the middle.&lt;/p&gt;
+
+&lt;h3 id=&quot;consideration-6--asset-class-converging-correlations&quot;&gt;Consideration 6 — Asset class converging correlations&lt;/h3&gt;
+&lt;p&gt;An underpinning concept of investing is that spreading one’s investments across a mix of uncorrelated asset classes—stocks, bonds, real estate, etc.—overall risk is reduced through diversification.&lt;/p&gt;
+
+&lt;p&gt;Bernstein highlights a concern that short-term correlations are increasing, as asset class investing is becoming increasingly accessible. In 1930, investing in timber was practically difficult; today, anyone can invest in timber with a click of a button at your brokerage website.&lt;/p&gt;
+
+&lt;p&gt;However, Bernstein also points out that long-term diversification continues to provides protection, illustrated in a chart showing 1999 to 2008 returns for asset classes, a time during which correlation was high.&lt;/p&gt;
+
+&lt;h2 id=&quot;lifecycle-allocation-recommendations&quot;&gt;Lifecycle Allocation Recommendations&lt;/h2&gt;
+&lt;p&gt;Having laid out the groundwork, we now look at how those considerations lead to allocation recommendations at different phases of an investor’s life:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Early life&lt;/li&gt;
+  &lt;li&gt;Retirement&lt;/li&gt;
+  &lt;li&gt;Middle life&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;early-life&quot;&gt;Early life&lt;/h3&gt;
+&lt;p&gt;Bernstein points out that aggressive investing for young people makes sense for two reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;As &lt;em&gt;sequence investors&lt;/em&gt;, their stocks probably do become less risky with time, or at least do not increase their risk.&lt;/li&gt;
+  &lt;li&gt;Their &lt;em&gt;human capital&lt;/em&gt;—i.e. their capacity to earn and save—is far greater than their financial capital. In this stage, a 50% loss of financial capital produces only a small reduction of total capital.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Even still, Bernstein recommends a 50% stock exposure, with a tilt towards small/value stocks, on the assumption that young people are often not geared to live with the volatility that is likely to be experienced with higher risk—i.e. that even young people will likely have a relatively low &lt;em&gt;tolerance&lt;/em&gt; for risk.&lt;/p&gt;
+
+&lt;p&gt;DeMuth, on the other hand, follows the lead of Ayres &amp;amp; Nalebuff, as well as the “Optimal Life-Cycle Investing” 2008 paper by Gomes, Kotlikoff, and Viceira, in recommending a lifelong trajectory of stock exposure that would visually appear as a “smile”—i.e. implying an 80% to 100% exposure to stocks for young people:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://files.dafacto.com/uploads/inverted-smile.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For young people, Bernstein and DeMuth both acknowledge the &lt;em&gt;need&lt;/em&gt; and &lt;em&gt;capacity&lt;/em&gt; for risk, but Bernstein ultimately gives priority to avoiding the consequences of overestimating one’s &lt;em&gt;tolerance&lt;/em&gt; for risk.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A word on savings rate&lt;/strong&gt; — Perhaps the most under-appreciated aspect for young people of providing for their future financial needs, is the amount which they need to save.&lt;/p&gt;
+
+&lt;p&gt;Bernstein points out some typical rules of thumb, and highlights the uncertainty of outcomes:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Assuming 3.5% inflation-adjusted investment returns, someone wanting to retire at age 70 and maintain their current standard of living, would need to save 20% of their pre-tax salary if they start saving at age 25, or 30% if they started at age 35.&lt;/li&gt;
+  &lt;li&gt;Bernstein analyzed people who started saving 20% of their pre-tax salary between the years 1925 and 1980, and calculated how many years it took to reach retirement-level savings. That time fluctuated between 20 and 37 years.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These points highlight the profound importance that young people diligently save as much as possible, beginning as early as possible, and deeply understand the possible duration of their committment.&lt;/p&gt;
+
+&lt;h3 id=&quot;retirement&quot;&gt;Retirement&lt;/h3&gt;
+&lt;p&gt;Bernstein prefers to consider the retirement allocation after the early life allocation, since mid-life investing should be understood as a bridge between the two.&lt;/p&gt;
+
+&lt;p&gt;Bernstein subscribes to the Waring &amp;amp; Siegel’s recommendation that retirees have two portfolios:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Liability matching portfolio&lt;/em&gt; (LMP), providing adequate lifetime income from low-risk assets.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Risk portfolio&lt;/em&gt; (RP), containing funds in excess of the LMP.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ideally the LMP is covered by three vehicles:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Inflation-adjusted annuities&lt;/li&gt;
+  &lt;li&gt;Deferred social security to age 70&lt;/li&gt;
+  &lt;li&gt;TIPS&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Bernstein then looks individually at annuities and TIPS:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Annuities&lt;/strong&gt; have four large disadvantages:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;They do not allow withdrawals for emergencies.&lt;/li&gt;
+  &lt;li&gt;They require the participant to give up ownership of his or her nest egg.&lt;/li&gt;
+  &lt;li&gt;The companies that provide them must make a profit, which reduces payouts.&lt;/li&gt;
+  &lt;li&gt;They’re exposed to the catastrophic risk that the insurance companies may not survive.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;TIPS&lt;/strong&gt; provide an effective way of protecting one’s cash flow against inflation, but only when held to maturity. Before then, they can prove risky, because their secondary market is thin. In the 2008 financial crisis, long-dated TIPS lost a quarter of their value.&lt;/p&gt;
+
+&lt;p&gt;When using TIPS to fund retirement, Bernstein recommends a ladder whose maturities at least approximately match one’s projected time horizon. One should &lt;em&gt;not&lt;/em&gt; use a TIPS mutual fund or ETF, which may suffer capital loss just when you need the funds the most.&lt;/p&gt;
+
+&lt;p&gt;Considering the risk of living longer than one’s TIPS ladder vs a default or financial crisis affecting one’s annuity, Bernstein suggests that some combination between the two may be appropriate.&lt;/p&gt;
+
+&lt;p&gt;Bernstein offers specific strategies for four fictional retirees — Fenwick &amp;amp; Frank (typical), Frasier (sold a company for $10M) and Fritz (sold a company for $4M). These are described in Appendix 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Consider dividend stocks for the risk portfolio (RP)&lt;/strong&gt; — Bernstein highlights that although the value of stocks can fluctuate wildly, their stream of income is much more stable. At no point in the history of the U.S. stock market has its real dividend stream fallen by more than half, even during the Great Depression. During the most recent financial crisis, for example, although stock prices fell by more than 50%, dividends also dropped, but by only 23% from their peak, and only temporarily.&lt;/p&gt;
+
+&lt;p&gt;DeMuth, on the other hand, continues to base his retirement recommendations on the consequences of Samuelson &amp;amp; Merton and Ayres &amp;amp; Nalebuff’s work, proposing an &lt;em&gt;increase&lt;/em&gt; in stock allocation in retirement, transitioning from perhaps 50% in mid-life, to 80% to 100% by the end of one’s life:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As time compresses, with an ever-shortening period over which your nest egg needs to sustain you, your allocation to stocks can increase at the same level of payout (or, alternatively, your payout can increase at the same level of stocks).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;DeMuth also points out that during this time, Social Security is like an inflation-indexed bond, allowing one to make a correspondingly higher allocation to equities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drawdown rate&lt;/strong&gt; — Bernstein suggests that below age 65, a 2% drawdown rate is “bulletproof”, 3% is probably safe, and 4% is taking chances. In Rational Expectations, Bernstein provides a rough formula for withdrawal rate: Stocks/100 + Bonds/25. So a stock/bond portfolio of 70/30 would imply a safe drawdown rate of 1.9% per year (0.7/100 + 0.3/100).&lt;/p&gt;
+
+&lt;h3 id=&quot;middle-life&quot;&gt;Middle life&lt;/h3&gt;
+&lt;p&gt;Mid-life, for Bernstein, marks the period between aggressive investing in youth and conservative allocation in retirement.&lt;/p&gt;
+
+&lt;p&gt;Bernstein doesn’t discuss specifics of particular allocations during this time, but DeMuth recommends a stock allocation in the neighborhood of 40% to 50%.&lt;/p&gt;
+
+&lt;p&gt;When to transition to retirement? Bernstein and DeMuth both recommend doing so as soon as you meet you have accumulated about 25 times the annual (real, inflation-adjusted) income that you’ll need for the rest of your life. As mentioned in the discussion of saving’s rate, this can take 20 to 40 years to accomplish for people saving 20% of their pre-tax income.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusions-and-observations&quot;&gt;Conclusions and observations&lt;/h2&gt;
+&lt;p&gt;I found taking the time to distill and organize the considerations and conclusions of Bernstein, DeMuth and Norstad to be helpful in framing my own context of lifecycle investing, and I hope you have found it useful as well.&lt;/p&gt;
+
+&lt;p&gt;I am, however, left with some open observations and questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;It’s concerning to find such disparity in the early-life and retirement recommendations between Bernstein and DeMuth. Investing obviously still isn’t a science. Personally, I find DeMuth’s early-life recommendations more compelling—i.e. I think an effort should be made to convince young people through education to tolerate volatility—while I find Bernstein’s retirement recommendations to be more sensible.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Much of the investing theory presented here is based on Samuelson &amp;amp; Merton’s work, focusing on the iso-elastic investor. But in practice, to what extent is (or should be) a typical person’s risk profile iso-elastic? And how does the answer to that question change, if at all, how a person should allocate their savings and assets over time?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I find it useful to consider retirement as the opposite of early-life investing—i.e. instead of saving and building savings, one is continually drawing down one’s accumulated savings. As such, one is exposed to sequence risk, but in reverse—poor returns at the beginning are detrimental.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What about the Permanent Portfolio?&lt;/p&gt;
+
+    &lt;p&gt;Both Bernstein and DeMuth prescribe pre-retirement allocations primarily containing a mix of stocks and intermediate-dated bonds, along with possibly smaller amounts of supplementary assets such as REITS, commodities, gold, etc.&lt;/p&gt;
+
+    &lt;p&gt;The Permanent Portfolio prescribes an asset allocation of three highly volatile, while highly uncorrelated asset classes—stocks, long-term government bonds, and gold—along with a forth asset class, cash. These asset classes were identified to be those classes which respond most dramatically to the four possible states of the economy—prosperity, deflation, inflation and recession.&lt;/p&gt;
+
+    &lt;p&gt;The Permanent Portfolio has, over the years, demonstrated itself to have low volatility, while providing a level of returns that most would find attractive in relation to its relatively low risk.&lt;/p&gt;
+
+    &lt;p&gt;It’s designer, Harry Browne, recommended it to be held throughout one’s entire lifetime, which is consistent with the conclusions of Samuelson and Merton.&lt;/p&gt;
+
+    &lt;p&gt;The only reason I can think of for &lt;em&gt;not&lt;/em&gt; investing in the Permanent Portfolio, would be a &lt;em&gt;need&lt;/em&gt; to take on additional risk. I would love to hear counter arguments, for example, some objective argument that the historical behavior of the allocation as a whole is unlikely to continue in the future.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;appendix-1-arguments-against-risk-reduction-through-time-diversification&quot;&gt;Appendix 1 — Arguments against risk reduction through time diversification&lt;/h2&gt;
+&lt;p&gt;This appendix summarizes the three arguments presented in Norstad’s article, “Risk and Time”. We should keep in mind, that  Bernstein points out these assume lump-sum investments.&lt;/p&gt;
+
+&lt;h3 id=&quot;argument-1--utility-theory-robert-merton-and-paul-samuelson&quot;&gt;Argument 1 — Utility theory (Robert Merton and Paul Samuelson).&lt;/h3&gt;
+&lt;p&gt;A “risk-averse” investor requires a premium. Risk aversion can be measured by utility functions. “Iso-elastic” utility functions characterize those investors whose preferences for risk are independent of wealth, over some “fixed” time horizon.&lt;/p&gt;
+
+&lt;p&gt;If time reduces risk, one would expect a rational investor—including an iso-elastic one—to take more risk, given a longer time horizon. Samuelson and Morton proved mathematically that for iso-elastic investors, attitude toward risk is independent of time.&lt;/p&gt;
+
+&lt;h3 id=&quot;argument-2-probability-of-shortfall&quot;&gt;Argument 2 — Probability of shortfall&lt;/h3&gt;
+&lt;p&gt;Considering a S&amp;amp;P 500 stock market index the the probability that a stock investment will earn less than a bank account earning 6% interest is 42% after 1 year. After 40 years this probability decreases to only 10%.&lt;/p&gt;
+
+&lt;p&gt;The problem with this argument is that it treats all shortfalls equally.&lt;/p&gt;
+
+&lt;p&gt;Using the same S&amp;amp;P 500 index, the probability of losing money over 1 year is 31%, and drops to 19% after 3 years. But the probability of losing 20% or more after 1 year is 5% and increases to 6.4% after 3 years. Losing 30% or more of our money is 2.8 times more likely after 3 years than it is after 1 year. Losing 40% or more of our money is 9.7 times more likely after 3 years than it is after 1 year. Losing 50% or more of our money is a whopping 71 times more likely after 3 years than it is after 1 year!&lt;/p&gt;
+
+&lt;p&gt;To use probability of shortfall as a measure of risk, we must attach weights to the magnitude of gains and losses, which is what utility theory does. And utility theory assigns more weight to losses than gains, due to decreasing marginal utility of wealth.&lt;/p&gt;
+
+&lt;p&gt;Utility theory results are, however, inconclusive. For iso-elastic investors, risk is independent of time. For others, risk can increase or decrease with time.&lt;/p&gt;
+
+&lt;p&gt;The conclusion is that probability of shortfall arguments are more complex than what they appear on the surface.&lt;/p&gt;
+
+&lt;h3 id=&quot;argument-3--options-pricing-zvi-bodie&quot;&gt;Argument 3 — Options pricing (Zvi Bodie)&lt;/h3&gt;
+&lt;p&gt;An “option” in an insurance policy that covers the shortfall in the case that one investment, say stocks, earns less than another, say bonds. Bodie demonstrated that option pricing increases with time.&lt;/p&gt;
+
+&lt;h2 id=&quot;appendix-2--bernsteins-four-retiree-scenarios&quot;&gt;Appendix 2 — Bernstein’s four retiree scenarios&lt;/h2&gt;
+&lt;p&gt;Bernstein provides strategies for four fictional retirees — Fenwick &amp;amp; Frank (typical), Frasier (sold a company for $10M) and Fritz (sold a company for $4M).&lt;/p&gt;
+
+&lt;p&gt;Looking at Frasier &amp;amp; Fritz:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Frasier really doesn’t need much of an investment or retirement strategy. Almost any prudent mix of indexed global stocks and, on the bond side, short-term Treasuries, munis, and CDs will last Frasier nearly forever. In a taxable portfolio, though, he should hold short-term treasuries instead of TIPS, which, on the short-end should both keep up with inflation, and avoid the accounting headaches of TIPS.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;As for Fritz, even if he completely annuitizes his new $4M savings at age 62, he’ll only receive about $142,000 per year in inflation-adjusted annual income. The optimal solution for Fritz likely involves some combination of fixed annuities purchased somewhat later in life, part-time work to supplement his income, and a reduction in his standard of living.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">We live in an age in which the responsibility for providing for one’s financial needs during retirement mostly lies on the individual. A historically successful approach involves persistent saving and investing according to the fundamentals introduced in my book, Money for Something. This article looks specifically at asset allocation over one’s lifetime.</summary></entry><entry><title type="html">How To Track Real Estate In Banktivity</title><link href="http://localhost:4000/2015/11/25/how-to-track-real-estate-in-banktivity.html" rel="alternate" type="text/html" title="How To Track Real Estate In Banktivity" /><published>2015-11-25T00:00:00+01:00</published><updated>2015-11-25T00:00:00+01:00</updated><id>http://localhost:4000/2015/11/25/how-to-track-real-estate-in-banktivity</id><content type="html" xml:base="http://localhost:4000/2015/11/25/how-to-track-real-estate-in-banktivity.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">What happens when you don’t stay the course</title><link href="http://localhost:4000/blog/what-happens-when-you-dont-stay-the-course/" rel="alternate" type="text/html" title="What happens when you don’t stay the course" /><published>2015-11-17T00:00:00+01:00</published><updated>2015-11-17T00:00:00+01:00</updated><id>http://localhost:4000/blog/what-happens-when-you-dont-stay-the-course</id><content type="html" xml:base="http://localhost:4000/blog/what-happens-when-you-dont-stay-the-course/">&lt;p&gt;In my book, Money for Something we discuss how important it is to “stay the course.” Most people, however, don’t stay the course, and this chart from the J.P. Morgan &lt;a href=&quot;https://www.jpmorganfunds.com/&quot;&gt;Guide to the Markets&lt;/a&gt; illustrates the astounding consequences.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://files.dafacto.com/skitch.dafacto.com/2013/skitched-20140410-120532.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Truly incredible—During the 20 years between 1993 and 2012, the annualized returns of the asset classes in which we typical invest varied between &lt;strong&gt;6.3%&lt;/strong&gt; and &lt;strong&gt;11.2%&lt;/strong&gt;. But the return actually realized by the average investor was a meager &lt;strong&gt;2.3%&lt;/strong&gt;—not even beating inflation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Why does this happen? The reasons are many:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Investors often pay high fees.&lt;/strong&gt; A mutual fund charging 2.5% will &lt;em&gt;cut your long-term returns in half&lt;/em&gt;. Terrible, especially when you consider there are ultra low-cost alternatives available, from companies like Vanguard, which have fees as low as 0.05%.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Investors make emotional decisions.&lt;/strong&gt; So many investors exit the market during crashes. A successful investor doesn’t panic during crashes, nor does he become euphoric during bull markets. With discipline and without emotion, he just continues with his strategy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Investors chase performance.&lt;/strong&gt; Investors are constantly jumping from one strategy to another, from one fund to another, always chasing last-years winners—which, in the long-run, is a losing strategy.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Success in long-term investing is easy, but you have to have discipline, and you have to stay the course.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">The opportunity cost of spending today</title><link href="http://localhost:4000/blog/the-opportunity-cost-of-spending-today/" rel="alternate" type="text/html" title="The opportunity cost of spending today" /><published>2015-10-25T00:00:00+02:00</published><updated>2015-10-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/opportunity-cost-of-spending-today</id><content type="html" xml:base="http://localhost:4000/blog/the-opportunity-cost-of-spending-today/">&lt;p&gt;The power of compounding interest can be understood through the “rule of 72”—i.e. the number of years it takes to double your money is approximately equal to 72 divided by your rate of return. For example, assuming your invested savings compound at a rate of 7%, you would double your money every 10 years.&lt;/p&gt;
 
 &lt;p&gt;Especially important for young people, this same rule highlights the opportunity cost associated with spending, rather than saving. That means one dollar spent today would be worth $2 in 10 years, $4 in 20 years, $8 in 30 years, etc.&lt;/p&gt;
 
-&lt;p&gt;So if you’re twenty years old, just remember that when you spend $40,000 on that new car, instead of $20,000 on a used one, you’re potentially giving up $160,000 in retirement savings!&lt;/p&gt;</content><author><name></name></author><summary type="html">The power of compounding interest can be understood through the “rule of 72”—i.e. the number of years it takes to double your money is approximately equal to 72 divided by your rate of return. For example, assuming your invested savings compound at a rate of 7%, you would double your money every 10 years.</summary></entry><entry><title type="html">Reconciling A Random Walk and The Great Wall</title><link href="http://localhost:4000/blog/reconciling-a-random-walk-and-the-great-wall/" rel="alternate" type="text/html" title="Reconciling A Random Walk and The Great Wall" /><published>2010-07-25T00:00:00+02:00</published><updated>2010-07-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/reconciling-a-random-walk-china</id><content type="html" xml:base="http://localhost:4000/blog/reconciling-a-random-walk-and-the-great-wall/">&lt;p&gt;Dr. Burton Malkiel, professor at Princeton university, is one of my favorite authors on the subject of investing. His book, A Random Walk Down Wall Street, is considered one of the cornerstones of personal investing literature.  In 2008, Dr. Malkiel published another book, From Wall Street to the Great Wall, in which he makes the case for investing in China. Having read both books, I was puzzled by the apparent conflicts between the two.&lt;/p&gt;
+&lt;p&gt;So if you’re twenty years old, just remember that when you spend $40,000 on that new car, instead of $20,000 on a used one, you’re potentially giving up $160,000 in retirement savings!&lt;/p&gt;</content><author><name></name></author><summary type="html">The power of compounding interest can be understood through the “rule of 72”—i.e. the number of years it takes to double your money is approximately equal to 72 divided by your rate of return. For example, assuming your invested savings compound at a rate of 7%, you would double your money every 10 years.</summary></entry><entry><title type="html">You can’t beat the market</title><link href="http://localhost:4000/blog/you-cant-beat-the-market/" rel="alternate" type="text/html" title="You can’t beat the market" /><published>2015-09-25T00:00:00+02:00</published><updated>2015-09-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/you-can-not-beat-the-market</id><content type="html" xml:base="http://localhost:4000/blog/you-cant-beat-the-market/">&lt;p&gt;So much of the financial services industry’s value proposition resides on the premise that markets can be beaten. With the most talented managers, the best research and cutting edge processes and algorithms, the modern financial firm promises to get you ahead, in exchange for fees that would otherwise kill long-term returns.&lt;/p&gt;
 
-&lt;p&gt;One of the key lessons from A Random Walk, is that the market is fundamentally unpredictable, and, as such, a long-term investor’s best strategy is to own the entire (global) market, by investing in (low cost) passively managed index funds (or ETFs). It’s critical that one avoids trying to predict which stocks, asset classes or markets are going to do well, and should avoid listening to those who would claim to know. On the other hand, Malkiel would appear to contradict his own philosophy in The Great Wall, by suggesting (and making a case for) an emphasis on one particular country — China.&lt;/p&gt;
+&lt;p&gt;As discussed in my book, Money for Something, academic studies have demonstrated time and time again, that markets have never been beaten, in the long-run. As a consequence, long-term savers are better off investing in low-costs, passive funds that &lt;em&gt;track the entire market&lt;/em&gt;—funds like the Vanguard S&amp;amp;P 500.&lt;/p&gt;
 
-&lt;p&gt;I emailed Dr. Malkiel asking how he reconciles these seemingly conflicting messages, and how he would adopt the recommendations from The Great Wall into an asset allocation and investing approach derived from A Random Walk. In his reply, he states that passively owning the entire global market remains the way to go, but that the compelling case for the economic future of China makes it worthwhile for the investor to consider correcting for the mis-representation of China’s weighting within common indexes.&lt;/p&gt;
+&lt;p&gt;In 2008, famed investor Warren Buffett put up $1 million of his own money, in a wager that over the next 10 years, the S&amp;amp;P 500 would outperform a sampling of the best hedge funds wall street had to offer. New York money managers Protégé Partners took Buffett up on his bet, and proceeded to hand-pick a basket of hedge funds most likely to perform well during the next decade.&lt;/p&gt;
 
-&lt;p&gt;Because many Chinese equities can not trade outside China, its weighting in indexes (commonly around 2%) misrepresents its real influence, which, based on GDP, would be something around 13% globally. An investor wanting to make this adjustment could increase their China weighting by additionally investing in a China-specific ETF — such as FXI or the two mentioned in his email, YAO and HAO. (It should be noted that Dr. Malkiel is professionally involved with the determination of the indexes on which YAO and HAO are based.)&lt;/p&gt;
+&lt;p&gt;Seven years later, where does the bet stand? Fortune magazine &lt;a href=&quot;http://fortune.com/2015/02/03/berkshires-buffett-adds-to-his-lead-in-1-million-bet-with-hedge-fund/&quot;&gt;brings us up to date&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Here’s his reply in full (printed with permission):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The Vanguard S&amp;amp;P 500 index fund is up 63.5%.&lt;/li&gt;
+  &lt;li&gt;The basket of hedge funds is up 19.6%.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;In general, I think an emerging market index fund or a total world fund would work very well.  In China, however, there are certain peculiarities about its stock markets so that it gets underweighted in both emerging market index funds and in total world indexes.
-Most indexes are so-called “float” weighted.  Thus, if a certain fraction of the shares of any individual company do not trade freely, then they are not counted in the weight of that company in the index.  For two reasons, this practice of float weighting means that China gets underweighted.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;First, none of the so-called A-shares traded in Shanghai and Shenzhen get counted.  This is so because these shares are only available to Chinese citizens (with minor exceptions).  Only the shares of Chinese companies traded in Hong Kong or New York that are freely tradeable are counted in the index.  A second reason China gets underweighted, is that if the Chinese government owns half the shares of the company, those shares are not counted in the float.  As a result, in world indices, China only gets between 1 and 2% of the weight whereas, adjusted for purchasing power parity, China’s GDP is about 13% of the world’s GDP and it is growing rapidly.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Protégé partner, Ted Seides, who negotiated the original bet with Buffett, comments on the state of affairs:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Hence, I believe that investors need to put more China in their portfolios than are available in general world or emerging market index funds.  I am, however, true to my indexing beliefs and I think the best way to do it is to buy a broad-based index fund of Chinese companies.  Two of them that trade on the New York Stock Exchange are YAO (an index fund representing all Chinese companies available to international investors) and HAO (a small capitalization index fund that contains more entrepreneurial companies and ones with less government ownership.&lt;/p&gt;
-&lt;/blockquote&gt;
+  &lt;p&gt;The odds now are that we’ll need to see a severe market contraction for our side of the ledger to stage an epic comeback.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">So much of the financial services industry’s value proposition resides on the premise that markets can be beaten. With the most talented managers, the best research and cutting edge processes and algorithms, the modern financial firm promises to get you ahead, in exchange for fees that would otherwise kill long-term returns.</summary></entry><entry><title type="html">A millionaire in disguise</title><link href="http://localhost:4000/blog/a-millionaire-in-disguise/" rel="alternate" type="text/html" title="A millionaire in disguise" /><published>2015-08-25T00:00:00+02:00</published><updated>2015-08-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/a-millionaire-in-disquise</id><content type="html" xml:base="http://localhost:4000/blog/a-millionaire-in-disguise/">&lt;p&gt;In Money for Something, we talk about viewing wealth in terms of the income it can generate — i.e. in terms of the &lt;em&gt;four percent rule&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;I’d like to conclude by mentioning that Dr. Malkiel has recently published a new book, The Elements of Investing, which I’d strongly recommend to anyone interested in the subject of personal investing. As reflected in its title, the book attempts to distill the most essential and important aspects of personal investing (including lessons from the contemporary field of behavioral finance) into a book that can be read in about two hours.﻿&lt;/p&gt;</content><author><name></name></author><summary type="html">Dr. Burton Malkiel, professor at Princeton university, is one of my favorite authors on the subject of investing. His book, A Random Walk Down Wall Street, is considered one of the cornerstones of personal investing literature. In 2008, Dr. Malkiel published another book, From Wall Street to the Great Wall, in which he makes the case for investing in China. Having read both books, I was puzzled by the apparent conflicts between the two.</summary></entry></feed>
+&lt;p&gt;Based on a number of studies to determine a reasonable “draw-down” rate for retirees,  there’s a rule of thumb which states that &lt;em&gt;if you withdraw no more than four percent of your sensibly-invested savings per year, you’ll likely never run out of money.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So, if you could live on $40,000 per year, then you’d be &lt;em&gt;financially free&lt;/em&gt; once you’d saved and invested an amount of one million dollars — regardless how old you are.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, this rule of thumb can also be used in reverse.&lt;/p&gt;
+
+&lt;p&gt;The other day I was speaking with a retired couple who, from their employer-provided individual retirement plans (to which they contributed during their working careers), receive about $6,000 per month, for as long as they live. Talking to them, it was interesting to hear the husband ponder what he’d do, if he were “a millionaire”.&lt;/p&gt;
+
+&lt;p&gt;Well, in a sense, he is!&lt;/p&gt;
+
+&lt;p&gt;Based on the four-percent rule, how much would you need to have saved to generate an income of $6,000 per month? — &lt;strong&gt;$1,800,000!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Understanding how to view wealth is just one of several important aspects of money management. For a complete and easy-to-read introduction, be sure to read Money for Something.&lt;/p&gt;</content><author><name></name></author><summary type="html">In Money for Something, we talk about viewing wealth in terms of the income it can generate — i.e. in terms of the four percent rule.</summary></entry><entry><title type="html">How often should you check your portfolio balance?</title><link href="http://localhost:4000/blog/how-often-should-you-check-your-investment-portfolio-balance/" rel="alternate" type="text/html" title="How often should you check your portfolio balance?" /><published>2015-05-25T00:00:00+02:00</published><updated>2015-05-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/how-often-should-you-check-your-portfolio-balance</id><content type="html" xml:base="http://localhost:4000/blog/how-often-should-you-check-your-investment-portfolio-balance/">&lt;p&gt;I’ve been receiving lots of emails from people who have read Money for Something and are excited to report that their new personal investment programs are underway. To these folks I say, “Congratulations! You’re on your way!”&lt;/p&gt;
+
+&lt;p&gt;Some have even setup auto-updating Google Spreadsheets, allowing them to track their investment balance with up-to-the-minute accuracy!&lt;/p&gt;
+
+&lt;p&gt;To those folks I say, “That might not be such a great idea.”&lt;/p&gt;
+
+&lt;p&gt;Although a well-structured investment portfolio should, over the long-run, increase in value, it will, on a &lt;em&gt;day-by-day basis&lt;/em&gt;, likely go up or down with about the same probability—with “up” being slightly more likely.&lt;/p&gt;
+
+&lt;p&gt;The new field of behavioral psychology tells us that we humans tend to feel more pain when we experience a loss, than pleasure when we experience a gain. The consequence is that if you check your portfolio on a daily basis you will, cumulatively over the course of a year, likely feel more pain than pleasure. And that certainly doesn’t help in achieving the real objective — sticking with your investment plan &lt;em&gt;over the long-run&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;So, what’s a good frequency to check your portfolio? Personally, I’d love to have the discipline to check mine only once per quarter. But that’s hard to do, and so I’m pretty happy if I can limit myself to once per month.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve been receiving lots of emails from people who have read Money for Something and are excited to report that their new personal investment programs are underway. To these folks I say, “Congratulations! You’re on your way!”</summary></entry></feed>

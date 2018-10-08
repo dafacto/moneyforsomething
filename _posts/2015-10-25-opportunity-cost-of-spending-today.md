@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The opportunity cost of spending today"
+title:  The opportunity cost of spending today
 date:   2015-10-25
 categories: investing
 permalink: /blog/the-opportunity-cost-of-spending-today/
