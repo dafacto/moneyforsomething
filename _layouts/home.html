@@ -25,24 +25,11 @@ layout: default
       <a name="toc"></a>
       <h2>Table of Contents</h2>
 
-      <ol class="nav toc">
+      <ol class="toc">
       {% for chapter in site.chapters %}
         <li><a href="{{chapter.url}}">{{ chapter.title }}</a></li>
       {% endfor %}
       </ol>
     </div>
   </div>
-
-  <div class="section">
-    <div class="wrapper">
-      <a name="resources"></a>
-      <h2>Resources</h2>
-      <ul class="nav">
-      {% for link in site.data.nav %}
-        <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-      {% endfor %}
-      </ul>
-    </div>
-  </div>
-
 </div>

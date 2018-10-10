@@ -15,14 +15,28 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
         {%- include social.html -%}
       </div>
 
+      {% assign nav_mid_index = site.data.nav.size | divided_by: 2 | ceil | plus: 1 %}
+      <div class="footer-col footer-col-2">
+        <ul class="nav">
+        {% for link in site.data.nav %}
+          {% if forloop.index <= nav_mid_index %}
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </div>
+
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <ul class="nav">
+        {% for link in site.data.nav %}
+          {% if forloop.index > nav_mid_index %}
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        </ul>
       </div>
     </div>
 
