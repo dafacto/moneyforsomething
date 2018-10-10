@@ -24,4 +24,4 @@ Why does this happen? The reasons are many:
 
 * <strong>Investors chase performance.</strong> Investors are constantly jumping from one strategy to another, from one fund to another, always chasing last-years winners—which, in the long-run, is a losing strategy.
 
-Success in long-term investing is easy, but you have to have discipline, and you have to stay the course.
+Long-term investing as described in Money for Something has reliably proved successful for generations, but you have to have discipline, and you have to stay the course.

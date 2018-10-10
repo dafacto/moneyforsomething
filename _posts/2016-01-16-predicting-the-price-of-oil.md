@@ -6,11 +6,11 @@ categories: investing
 permalink: /blog/predicting-the-price-of-oil/
 ---
 
-[1]: http://www.moneyforsomething.org/book/passive-investments/
-[2]: /wp-content/uploads/files/Screen%20Shot%202016-01-18%20at%2013.07.28.png
-[3]: /wp-content/uploads/files/Screen%20Shot%202016-01-18%20at%2013.19.06.png
+[1]: /book/passive-investments/
+[2]: /assets/img/Screen%20Shot%202016-01-18%20at%2013.07.28.png
+[3]: /assets/img/Screen%20Shot%202016-01-18%20at%2013.19.06.png
 
-In Money for Something, we talk about the importance of investing in a diversified portfolio of [passive assets that track entire markets](http://www.moneyforsomething.org/book/passive-investments/) because of the overwhelming data that demonstrates that *nobody can predict the market*. Along those lines, I wanted to give an example from recent history.
+In Money for Something, we talk about the importance of investing in a diversified portfolio of [passive assets that track entire markets][1]] because of the overwhelming data that demonstrates that *nobody can predict the market*. Along those lines, I wanted to give an example from recent history.
 
 Between June and December of 2008, the price of oil plummeted in a crash. The price of the United States Oil Fund, an ETF, went from $116 per share to around $30. 
 
@@ -30,4 +30,4 @@ Let’s see what would have happened if you’d given up on trying to predict th
 
 Had you bought the entire US stock market in April of 2009, you’d be <strong>up today by 120%</strong>.
 
-Keep this in mind next time somebody tells you about a “sure bet”.
+Keep this in mind next time somebody tells you about a *sure bet*.
