@@ -3,14 +3,14 @@
 
   {%- include head.html -%}
 
-  <body>
+  <body class="{{ page.layout }}">
 
-    {%- include header.html -%}
+    {%- unless page.layout == 'home' -%}
+      {%- include header.html -%}
+    {%- endunless -%}
 
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+      {{ content }}
     </main>
 
     {%- include footer.html -%}

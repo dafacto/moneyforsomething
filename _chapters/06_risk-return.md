@@ -5,9 +5,11 @@ chapter: 5
 permalink: /book/risk-return/
 img_header: header-06.png
 img_footer: summary-06.png
+intro: You can't have one without the other.
+takeaway: Always remember the fundamental truth—that you can't get higher returns without taking on more risk.
 ---
 
-Before looking at the details of asset class investing, we first need to learn about **investment risk**—what it means, and how to manage it.
+Before looking at the details of asset class investing, we first need to learn about investment risk—what it means, and how to manage it.
 
 Perhaps the single most important lesson in all of investing is that *risk and return are always related*. If you seek safety, you will receive a low return. If you seek a higher return, you must take on risk.
 

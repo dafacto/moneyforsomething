@@ -4,10 +4,9 @@ title: Acknowledgements
 chapter: 19
 permalink: /book/acknowledgements/
 img_header: header-21.png
-img_footer: 
+img_footer:
+intro: Thanks to the people who helped tremendously in bringing this guide from idea to reality.
 ---
-
-A number of individuals helped tremendously in bringing this guide from idea to reality.
 
 I’d like to thank my colleagues at Makalu, Alex Bendiken and Justin Driscoll, for their collaboration. I’d also like to thank my wife, Pino, and friend Diego Luque for their help with the Spanish version.
 

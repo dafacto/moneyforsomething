@@ -5,6 +5,8 @@ chapter: 12
 permalink: /book/tyranny-of-costs/
 img_header: header-12.png
 img_footer: summary-12.png
+intro: Small costs compound into large sums over time.
+takeaway: Minimize the costs of your investments.
 ---
 
 The same compounding mathematics that turn small savings into large savings will equally turn small costs into surprisingly large ones over time.

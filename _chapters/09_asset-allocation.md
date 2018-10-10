@@ -5,6 +5,8 @@ chapter: 9
 permalink: /book/asset-allocation/
 img_header: header-09.png
 img_footer: summary-09.png
+intro: Long term performance is driven by asset allocation.
+takeaway: In the long term, the allocation decision is what matters most. Sticking with your allocation is more important than picking the optimal one.
 ---
 
 So far, we’ve learned that we should be investing in unrelated asset classes and holding those investments for a long time. How you choose to distribute your investments across specific asset classes is known as asset allocation, and it’s the single most dominant influencer of long-term investment performance.
@@ -23,9 +25,9 @@ In the long run, it’s far more important to have consistently stuck to your al
 
 ## Two proposed allocations
 
-In this chapter, we will propose two conservative allocations. Later, we will recommend the specific investments to buy which correspond to the asset classes in each of these plans. (For more allocation options, visit the resources section.) 
+In this chapter, we will propose two conservative allocations. Later, we will recommend the specific investments to buy which correspond to the asset classes in each of these plans. (For more allocation options, visit the resources section.)
 
-### Option 1: The classic 
+### Option 1: The classic
 
 Simple and diverse. During the 34-year period from 1974 to 2008 (the data I have available), similar allocations had an annual rate of return of 9.3%.
 

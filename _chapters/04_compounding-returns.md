@@ -5,13 +5,15 @@ chapter: 4
 permalink: /book/compounding-returns/
 img_header: header-04.png
 img_footer: summary-04.png
+intro: The powerful force that allows even those with modest incomes to accumulate large savings.
+takeaway: Over time, and with a good rate of return, compounding earnings can turn small savings into large sums.
 ---
 
-The powerful force that allows even those with modest incomes to accumulate large savings is called **compounding returns**. It’s the notion of *earning money on past earnings*. If this is new to you, pay attention—this will be the most important chapter of the guide.
+Compounding returns is the notion of *earning money on past earnings*. If this is new to you, pay attention—this will be the most important chapter of the guide.
 
 Let’s walk through an example:
 
-- Say you have $100 in savings, earning 4% per year. After the first year, you’ll have $104—your original $100, plus $4 of earnings. Makes sense, right? 
+- Say you have $100 in savings, earning 4% per year. After the first year, you’ll have $104—your original $100, plus $4 of earnings. Makes sense, right?
 
 - After the second year you’ll have $108.16—another $4 earned on your original $100 savings, plus $0.16 earned on last year’s earnings of $4.
 

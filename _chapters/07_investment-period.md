@@ -5,9 +5,11 @@ chapter: 7
 permalink: /book/investment-period/
 img_header: header-07.png
 img_footer: summary-07.png
+intro: The best way to reduce risk is to hold your investments for a long time.
+takeaway: By holding investments for a long time, we reduce the risk of loss.
 ---
 
-The first way to reduce investment risk is to hold your investments for a long time. Let’s look at a graph of what happens when we hold stocks for different periods of time.
+Let’s look at a graph of what happens when we hold stocks for different periods of time.
 
 ![](/assets/img/chart-07.png)
 

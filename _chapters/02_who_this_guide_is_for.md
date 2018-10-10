@@ -5,6 +5,8 @@ chapter: 2
 permalink: /book/who-is-this-guide-for/
 img_header: header-02.png
 img_footer: summary-02-short.png
+takeaway: This guide is for everyone.
+intro:
 ---
 
 Time is an essential ingredient in achieving financial freedom through the approach described in this guide. For that reason, this guide will be particularly relevant to those in their 20s, 30s and early 40s—i.e. those with enough time to experience the power of compounding returns (something we’ll learn about later).

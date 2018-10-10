@@ -5,6 +5,8 @@ chapter: 10
 permalink: /book/rebalancing/
 img_header: header-10.png
 img_footer: summary-10.png
+intro: Sell high, buy low. Without predicting the market.
+takeaway: Periodic rebalancing preserves the risk vs return characteristics of our asset allocation, and can increase returns.
 ---
 
 Over time, as your individual asset classes increase and decrease in value, your allocation will shift from its target. “Rebalancing” brings that imbalanced allocation back in line with its target. Suppose your total portfolio value is $100 and your target allocation looks like this:

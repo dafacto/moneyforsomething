@@ -5,6 +5,8 @@ chapter: 11
 permalink: /book/passive-investments/
 img_header: header-11.png
 img_footer: summary-11.png
+intro: Don't try to beat the market, buy the market.
+takeaway: Since you can't beat the market, buy the market. Buy passive, index-tracking investments.
 ---
 
 Now that we’re almost ready to start investing, let’s take a moment to explore in more detail the reasons why we invest in asset classes rather than individual assets. Why explore this topic? Because the conclusions will dictate the types of products we’ll buy in order to invest in those same asset classes.

@@ -3,32 +3,46 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <header class="post-header">
+    <div class="wrapper">
+      <div class="illustration">
+        <span>💰</span>+<span>⏳</span>=<span>🏖</span>
+      </div>
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+      <p class="big">{{ page.intro }}</p>
+      <p class="big fancy">by Matt Henderson</p>
+    </div>
+  </header>
 
-  {{ content }}
+  <div class="post-content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </div>
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+  <div class="section alt">
+    <div class="wrapper">
+      <a name="toc"></a>
+      <h2>Table of Contents</h2>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
+      <ol class="nav toc">
+      {% for chapter in site.chapters %}
+        <li><a href="{{chapter.url}}">{{ chapter.title }}</a></li>
+      {% endfor %}
+      </ol>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="wrapper">
+      <a name="resources"></a>
+      <h2>Resources</h2>
+      <ul class="nav">
+      {% for link in site.data.nav %}
+        <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
 
 </div>

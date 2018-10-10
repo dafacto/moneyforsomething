@@ -5,6 +5,8 @@ chapter: 15
 permalink: /book/stay-the-course/
 img_header: header-15.png
 img_footer: summary-15.png
+intro: Don’t be your own worst enemy. Ignore the market noise.
+takeaway: Always remember to stay the course!
 ---
 
 To achieve the benefits of investing requires sticking with your plan over a long period of time. Unfortunately, many people fail to stay the course. Let’s look at some of the common pitfalls.

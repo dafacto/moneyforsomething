@@ -5,6 +5,8 @@ chapter: 14
 permalink: /book/implementing-the-plan/
 img_header: header-14.png
 img_footer: summary-14.png
+intro: Here's all you need to get started.
+takeaway: Open an account at a discount brokerage and start investing in the ETFs corresponding to your asset allocation.
 ---
 
 We’re now ready to invest! How do we get started? It’s easy—the strategy outlined in this guide can be fully implemented through a common online brokerage account.

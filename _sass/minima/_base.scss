@@ -26,6 +26,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  -webkit-font-smoothing: antialiased;
 }
 
 
@@ -94,7 +95,13 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  margin-top: 1.5em;
+  font-weight: $title-font-weight;
+  line-height: $title-line-height;
+}
+h1 {
+  font-size: 60px;
+  font-family: $title-font-family;
 }
 
 
@@ -232,6 +239,7 @@ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
+  font-size: 1rem;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
@@ -244,6 +252,10 @@ table {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 800;
     background-color: lighten($grey-color-light, 3%);
     border: 1px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);

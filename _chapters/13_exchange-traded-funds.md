@@ -5,6 +5,8 @@ chapter: 13
 permalink: /book/exchange-traded-funds/
 img_header: header-13.png
 img_footer: summary-13.png
+intro: The ideal investment product for low-cost, passive investing.
+takeaway: ETFs are convenient and economical building blocks of successful long-term investment program.
 ---
 
 Where can we find investment products that are passive, represent entire asset class markets, and are low cost? It may seem a lot to ask, but fortunately such products exist and are called Exchange Traded Funds or ETFs.

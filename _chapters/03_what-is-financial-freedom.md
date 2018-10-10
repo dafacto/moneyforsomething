@@ -5,6 +5,7 @@ chapter: 3
 permalink: /book/what-is-financial-freedom/
 img_header: header-03.png
 img_footer: summary-03.png
+takeaway: Financial freedom is having enough savings to provide a level of income necessary to achieve your own personal goals.
 ---
 
 Since this book is about **financial freedom**, it’s important to understand exactly what that means, and what this guide offers in helping you get there.

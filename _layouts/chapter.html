@@ -1,48 +1,57 @@
 ---
 layout: default
 ---
+
+{% if page.collection %}
+  {% assign links = site[page.collection]  %}
+{% endif %}
+
+<!--
+  From https://gist.github.com/budparr/3e637e575471401d01ec
+-->
+
+{% for link in links %}
+  {% if link.title == page.title %}
+      {% unless forloop.first %}
+          {% assign prev = tmpprev %}
+      {% endunless %}
+      {% unless forloop.last %}
+          {% assign next = links[forloop.index] %}
+      {% endunless %}
+  {% endif %}
+  {% assign tmpprev = link %}
+{% endfor %}
+
 <article class="post">
 
+  <header class="post-header">
+    <div class="wrapper">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+      <p class="big">{{ page.intro }}</p>
+    </div>
+  </header>
+
   <div class="post-content">
-  
-    {% if page.img_header %}
-        <img src="/assets/img/{{ page.img_header }}">
-    {% endif %}
-
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-    
-    {{ content }}
-
-    {% if page.img_footer %}
-        <img src="/assets/img/{{ page.img_footer }}">
-    {% endif %}
-
-    {% if page.collection %}
-        {% assign links = site[page.collection]  %}
-    {% endif %}
-    
-    <!-- 
-      From https://gist.github.com/budparr/3e637e575471401d01ec
-    -->
-
-    {% for link in links %}
-        {% if link.title == page.title %}
-            {% unless forloop.first %}
-                {% assign prev = tmpprev %}
-            {% endunless %}
-            {% unless forloop.last %}
-                {% assign next = links[forloop.index] %}
-            {% endunless %}
-        {% endif %}
-        {% assign tmpprev = link %}
-    {% endfor %}
-
-    <ul class="prevnext">
-        <li>{% if prev %}<a href="{{ prev.url}}">&lt; {{ prev.title }}</a>{% endif %}</li>
-        <li>{% if next %}<a href="{{ next.url}}">{{ next.title }} &gt;</a>{% endif %}</li>
-    </ul>
-
-
+    <div class="wrapper">
+      {{ content }}
+    </div>
   </div>
 
+  {% if page.takeaway %}
+    <footer class="post-footer">
+      <div class="wrapper">
+        <h5 class="caps">Key takeaway</h5>
+        <p class="big">{{ page.takeaway }}</p>
+
+        {% if next %}
+          <div class="post-continue">
+            Next: <a href="{{ next.url}}">{{ next.title }} &rarr;</a>
+          </div>
+        {% endif %}
+      </div>
+    </footer>
+  {% endif %}
 </article>
+
+{% if prev %}<a class="chapter-link prev" href="{{ prev.url}}"><strong>&larr;</strong><span class="caps">{{ prev.title }}</span></a>{% endif %}
+{% if next %}<a class="chapter-link next" href="{{ next.url}}"><span class="caps">{{ next.title }}</span><strong>&rarr;</strong></a>{% endif %}
