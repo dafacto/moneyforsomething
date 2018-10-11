@@ -9,6 +9,8 @@
       </div>
       {% if page.chapter %}
         <span>Chapter {{ page.chapter }} of {{ site.chapters.size }}</span>
+      {% else %}
+        <a href="/book/introduction/">Read the book &rarr;</a>
       {% endif %}
     </div>
     <hr class="rule reversed">
