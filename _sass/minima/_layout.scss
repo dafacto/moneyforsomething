@@ -100,7 +100,11 @@
 .book {
   display: flex;
   align-items: flex-start;
-  color: inherit;
+
+  &,
+  &:visited {
+    color: inherit;
+  }
 
   & + & {
     margin-top: $spacing-unit * 1.5;
