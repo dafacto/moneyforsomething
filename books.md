@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Additional Reading
+title: Books & Podcasts
 permalink: /books/
 ---
 
