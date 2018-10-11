@@ -1,0 +1,20 @@
+---
+layout: page
+title: Additional Reading
+permalink: /books/
+---
+
+{% for book in site.data.books %}
+<a href="{{ book.url }}" class="book" target="_blank">
+  <div class="book-cover">
+    <img src="/assets/img/{{ book.image }}">
+  </div>
+  <div class="book-info">
+    <strong>{{ book.title }}</strong><br>
+    <small>{{ book.author }}</small>
+    <p>{{ book.description }}</p>
+  </div>
+</a>
+{% endfor %}
+
+

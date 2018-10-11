@@ -97,6 +97,44 @@
   }
 }
 
+.book {
+  display: flex;
+  align-items: flex-start;
+  color: inherit;
+
+  & + & {
+    margin-top: $spacing-unit * 1.5;
+  }
+
+  &-cover {
+    flex: none;
+    width: 120px;
+    margin-right: 20px;
+  }
+  &-info {
+    line-height: 1.1;
+    strong {
+      font-size: 21px;
+    }
+    small {
+      font-size: 17px;
+      color: $grey-color-dark;
+    }
+    p {
+      margin-top: $spacing-unit / 2;
+      font-size: 17px;
+      line-height: 1.4;
+    }
+  }
+  &:hover {
+    color: inherit;
+    text-decoration: none;
+    strong {
+      color: $brand-color;
+    }
+  }
+}
+
 .testimonial {
   text-align: left;
   &:nth-child(odd) {

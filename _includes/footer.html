@@ -18,7 +18,7 @@
         {%- include social.html -%}
       </div>
 
-      {% assign nav_mid_index = site.data.nav.size | divided_by: 2 | ceil | plus: 1 %}
+      {% assign nav_mid_index = site.data.nav.size | divided_by: 2 | ceil %}
       <div class="footer-col footer-col-2">
         <ul class="nav">
         {% for link in site.data.nav %}
