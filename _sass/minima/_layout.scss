@@ -15,7 +15,7 @@
 .big {
   font-family: $title-font-family;
   font-size: 30px;
-  line-height: 1.2;
+  line-height: 1.25;
   small {
     display: block;
     color: rgba(#fff, .5);
@@ -95,6 +95,7 @@
 }
 
 .testimonial {
+  text-align: left;
   &:nth-child(odd) {
     margin-right: 50px;
   }
@@ -120,7 +121,7 @@
     margin: 0 0 ($spacing-unit / 1.5);
     padding: $spacing-unit;
     color: #000;
-    font: 27px/1.33 $title-font-family;
+    font: 25px/1.4 $title-font-family;
     background: #f7f7f7;
     &::after {
       content: "";
@@ -510,6 +511,7 @@
   color: $grey-color;
   line-height: 60px;
   font-weight: 600;
+  text-align: center;
   border: solid #e5e5e5;
   border-width: 1px 0;
   a {
