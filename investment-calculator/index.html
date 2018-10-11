@@ -1,0 +1,92 @@
+<html id="InvestmentCalculatorIframe">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="investment-calculator.css">
+</head>
+<body>
+  <div id="InvestmentCalculator">
+    <div id="js-chartContainer" class="chart_container">
+      <div id="y_axis"></div>
+      <div id="chart" class="rickshaw_graph"></div>
+      <section class="receipt">
+        <header class="receipt-header">
+          <h1 class="receipt-title has-currency" id="finalbal">601,000</h1>
+          <p class="receipt-subtext" id="previous-balance">&nbsp;</p>
+        </header>
+        <div class="receipt-row receipt-interest">
+          <span class="square"></span>
+          <h2 class="receipt-row-title has-currency" id="fromearnings">372,000</h2>
+          <span class="receipt-row-title percent" id="fromint_percent">62</span>
+          <strong class="receipt-label">From Earnings</strong>
+        </div>
+        <div class="receipt-row receipt-savings">
+          <span class="square square-alt"></span>
+          <h2 class="receipt-row-title has-currency" id="fromsavings">224,000</h2>
+          <span class="receipt-row-title percent" id="invested_percent">38</span>
+          <strong class="receipt-label">From Savings</strong>
+        </div>
+        <footer class="receipt-footer">
+          <p>
+            The final amount can safely provide about
+            <span id="fourpercent" class="has-currency">24,000</span>
+            <span class="boolean-toggle" id="period">of annual</span>
+            income, for the rest of your life.
+          </p>
+        </footer>
+      </section>
+    </div>
+    <div class="draggables">
+      <div class="draggable-value">
+        <div class="drag-hint">
+          <strong>Drag</strong> or <strong>click</strong>
+          <div class="arrow left"></div>
+          <div class="arrow right"></div>
+        </div>
+        <div class="value has-currency">
+          <span id="startingBalance">5,000</span>
+          <input type="text"/>
+        </div>
+        <div class="value-label">
+          Starting Balance
+        </div>
+      </div>
+      <div class="draggable-value">
+        <div class="drag-hint">
+          <strong>Drag</strong> or <strong>click</strong>
+          <div class="arrow left"></div>
+          <div class="arrow right"></div>
+        </div>
+        <div class="value has-currency">
+          <span id="savingsPerMonth">500</span>
+          <input type="text"/>
+        </div>
+        <div class="value-label">Savings per Month</div>
+      </div>
+      <div class="draggable-value">
+        <div class="drag-hint">
+          <strong>Drag</strong> or <strong>click</strong>
+          <div class="arrow left"></div>
+          <div class="arrow right"></div>
+        </div>
+        <div class="value">
+          <span id="yearsToInvest">25</span>
+          <input type="text"/>
+        </div>
+        <div class="value-label">Years to Invest</div>
+      </div>
+    </div>
+    <p class="moreoptions">
+      This calculation is based on an
+      <span class="adjustnum" id="rateOfReturn" data-percentage="true"></span>
+      annual rate of return,
+      <span class="adjustnum" id="savingsIncrease" data-percentage="true"></span>
+      annual salary increase, and
+      <br>
+      <span class="adjustnum" id="annualFees" data-percentage="true"></span>
+      in annual investment fees
+      (You can adjust these values too, by dragging them.)
+    </p>
+  </div>
+  <script src="investment-calculator.js"></script>
+</body>
+</html>
