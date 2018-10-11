@@ -121,6 +121,17 @@
   position: relative;
   background: #111;
 
+  a {
+    &,
+    &:visited {
+      color: inherit;
+    }
+    &:hover {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+
   hr {
     margin-top: $spacing-unit / 2;
   }
@@ -128,18 +139,6 @@
   @include media-query($on-palm) {
     padding-top: $spacing-unit / 2;
     font-size: 15px;
-  }
-}
-
-.site-title {
-  flex: 1;
-
-  &,
-  &:visited {
-    color: inherit;
-  }
-  &:hover {
-    text-decoration: none;
   }
 }
 
@@ -304,8 +303,11 @@
 }
 
 .post-meta {
-  font-size: $small-font-size;
-  color: $grey-color;
+  margin-bottom: $spacing-unit / 2 !important;
+  font-family: $title-font-family;
+  font-style: italic;
+  font-size: 27px;
+  color: rgba(#fff, .66);
 }
 
 .post-link {
