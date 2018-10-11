@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About the author
+title: Additional Portfolios
 permalink: /portfolios/
 ---
-
-# Portfolios
 
 In Money for Something we talk about the importance of investing in an “asset allocation” in order to reduce risk and benefit from diversification. The book presents one particular asset allocation, in which I personally invest, called “The Golden Butterfly”, which is  a slight variation of “The Permanent Portfolio”.
 
