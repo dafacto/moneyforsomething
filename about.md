@@ -31,31 +31,8 @@ If you like the book, I have two requests:
 
 1. Above all, please share it with someone. The book is free, so there’s nothing in the way of spreading investing education as far as possible.
 
-2. If you’d like to help support the operation of this site and the blog, I accept donations in Bitcoin and Monero cryptocurrencies, via the widgets below.
+2. If you’d like to help support the operation of this site and the blog, I accept donations in Bitcoin and Monero cryptocurrencies, via the widgets in the footer.
 
 Thanks so much, and if you’d like to say hello, [I’d love to hear from you](/contact/).
 
-<div id="cd571"></div>
-<script>
-  !function(c){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.onload=c,t.src="//lab.subinsb.com/projects/francium/cryptodonate/widget.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}(function(){
-    Fr.loadCD("cd571", {
-      coin: "bitcoin",
-      address: "3LyymFbU9zqSVWxMRB1tDcj5BuT4k7P7hr",
-      buttonClass: "dark",
-      dialogClass: "dark",
-    });
-  });
-</script>
-
-<div id="cd587"></div>
-<script>
-  !function(c){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.onload=c,t.src="//lab.subinsb.com/projects/francium/cryptodonate/widget.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}(function(){
-    Fr.loadCD("cd587", {
-      coin: "monero",
-      address: "4AfZrQ1kvq6dP5Gm1jFRHRHALGmCMR6nAP4KK5mgHt4VfbAY1XzS1jyYiBASTabNGiXXEf8mBMtZq9qQ6VrTJcJYVt1LzoD",
-      buttonClass: "dark",
-      dialogClass: "dark",
-    });
-  });
-</script>
 
