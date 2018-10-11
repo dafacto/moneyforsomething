@@ -6,7 +6,7 @@ permalink: /book/risk-return/
 img_header: header-06.png
 img_footer: summary-06.png
 intro: You can't have one without the other.
-takeaway: Always remember the fundamental truth—that you can't get higher returns without taking on more risk.
+takeaway: Never forget the fundamental truth—that, in the long run, you can’t get higher returns without taking on more risk.
 ---
 
 Before looking at the details of asset class investing, we first need to learn about investment risk—what it means, and how to manage it.
