@@ -37,19 +37,6 @@
   font-size: 25px;
 }
 
-.illustration {
-  display: inline-flex;
-  align-items: center;
-  line-height: 60px;
-  margin-bottom: $spacing-unit * 2;
-  letter-spacing: 10px;
-  color: rgba(#fff, .5);
-  font-size: 25px;
-  span {
-    font-size: 60px;
-  }
-}
-
 .nav {
   list-style: none;
   margin-left: 0;
@@ -68,7 +55,7 @@
   margin-left: 0;
   text-align: center;
   line-height: 2;
-  font-size: 25px;
+  font-size: 27px;
   font-family: $title-font-family;
 
   li {
@@ -313,10 +300,18 @@
   background: #111;
 
   .home & {
-    padding: ($spacing-unit * 5) 0 ($spacing-unit * 4);
+    padding: 0 0 ($spacing-unit * 2.5);
+    img {
+      display: block;
+      width: 100%;
+      max-width: 580px;
+      margin: 0 auto;
+      margin-bottom: $spacing-unit * 2.5;
+      border-radius: 0 0 10px 10px;
+    }
     .fancy {
       color: rgba(#fff, .5);
-      margin-top: $spacing-unit / 2;
+      margin-top: $spacing-unit / 1.5;
     }
   }
 
