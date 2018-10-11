@@ -5,11 +5,11 @@ chapter: 7
 permalink: /book/investment-period/
 img_header: header-07.png
 img_footer: summary-07.png
-intro: The best way to reduce risk is to hold your investments for a long time.
+intro: Patience is more than a virtue—it’s money.
 takeaway: By holding investments for a long time, we reduce the risk of loss.
 ---
 
-Let’s look at a graph of what happens when we hold stocks for different periods of time.
+Holding volatile investments, like stocks,   over a long period of time reduces the risk of losing money. Let’s look at a graph of what happens when we hold stocks for different periods of time.
 
 ![](/assets/img/chart-07.png)
 
@@ -21,4 +21,4 @@ What does this chart tell us?
 
 - Looking further, we see that stocks held for any *10-year period* during those 55 years would have never lost money.
 
-- But held for any *20-year period* during those 55 years, the annualized return would have fallen somewhere between 7% and 18%. Nice!
+- But held for any *20-year period* during those 55 years, the *minimum* annualized return we would have earned would be 7%, and the maximum, 18%. Now we’re talking!

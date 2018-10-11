@@ -9,7 +9,7 @@ intro: The powerful force that allows even those with modest incomes to accumula
 takeaway: With a reasonable rate of return, compounding earnings will, over time, turn small savings into surprisingly large sums.
 ---
 
-Compounding returns is the notion of *earning money on past earnings*. If this is new to you, pay attention—this will be the most important chapter of the guide.
+**Compounding returns** is the notion of *earning money on past earnings*. If this is new to you, pay attention—this will be the most important chapter of the book.
 
 Let’s walk through an example:
 
@@ -19,9 +19,11 @@ Let’s walk through an example:
 
 - After the third year, $112.49—another $4 on your original $100, plus $0.33 on your last two years earnings of $8.16.
 
-*Earnings on earnings, year after year.* It’s hard to believe such a simple concept could be so important. But after many years of investing, *the majority of your savings will have come from compound returns*, rather than original investments.
+*Earnings on earnings, year after year.* 
 
-Let’s look at another example:
+It’s hard to believe such a simple concept could be so important. But after many years of investing, *the majority of your savings will have come from compound returns*, rather than original investments.
+
+Consider this example:
 
 Stephanie is 25, and earns $50,000. Her salary increases each year with inflation. If she saves just 10% of her income, and earns an 8% annual return, then at age 55 she will have *invested* $280,000, but will have accumulated *nearly one million dollars*!
 
