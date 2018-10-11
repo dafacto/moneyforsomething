@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+
+{% if page.collection %}
+  {% assign links = site[page.collection]  %}
+{% endif %}
+
+<!--
+  From https://gist.github.com/budparr/3e637e575471401d01ec
+-->
+
+{% for link in links %}
+  {% if link.title == page.title %}
+      {% unless forloop.first %}
+          {% assign prev = tmpprev %}
+      {% endunless %}
+      {% unless forloop.last %}
+          {% assign next = links[forloop.index] %}
+      {% endunless %}
+  {% endif %}
+  {% assign tmpprev = link %}
+{% endfor %}
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -21,6 +42,11 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     <div class="wrapper">
       {{ content }}
+      {% if next %}
+        <div class="post-continue">
+          Next: <a href="{{ next.url}}">{{ next.title }} &rarr;</a>
+        </div>
+      {% endif %}
     </div>
   </div>
 
