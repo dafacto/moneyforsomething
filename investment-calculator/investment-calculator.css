@@ -1,0 +1,846 @@
+#InvestmentCalculatorIframe * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+#InvestmentCalculator {
+    --earnings-color: #F76400;
+    --savings-color: #FFAE78;
+    --chart-bg-color: #E3D9C8;
+    --receipt-bg-color: rgba(247, 240, 222, 0.9);
+    --y-axis-bg-color: transparent;
+    --currency: '£';
+}
+
+#InvestmentCalculator {
+    padding: 0 50px 0 20px;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    font-weight: 400;
+    font-size: 112.5%;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+#InvestmentCalculator .draggables {
+    display: flex;
+    border-top: 1px solid #1c1b19
+}
+
+#InvestmentCalculator svg {
+    width: 100%;
+}
+
+#InvestmentCalculator svg * {
+    width: 100%;
+}
+#InvestmentCalculator .draggables .draggable-value {
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 36px 0 14px;
+    text-align: center;
+    border-left: 1px solid #373531;
+    background: #1c1b19;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#InvestmentCalculator .draggables .draggable-value:first-child {
+    border-left: none;
+    -webkit-border-radius: 0 0 0 4px;
+    -moz-border-radius: 0 0 0 4px;
+    -ms-border-radius: 0 0 0 4px;
+    -o-border-radius: 0 0 0 4px;
+    border-radius: 0 0 0 4px
+}
+
+#InvestmentCalculator .draggables .draggable-value:last-child {
+    -webkit-border-radius: 0 0 4px 0;
+    -moz-border-radius: 0 0 4px 0;
+    -ms-border-radius: 0 0 4px 0;
+    -o-border-radius: 0 0 4px 0;
+    border-radius: 0 0 4px 0
+}
+
+#InvestmentCalculator .draggables .draggable-value .drag-hint {
+    -webkit-transition: opacity 0.1s linear;
+    -moz-transition: opacity 0.1s linear;
+    -o-transition: opacity 0.1s linear;
+    transition: opacity 0.1s linear;
+    position: absolute;
+    top: 15px;
+    left: 50%;
+    width: 144px;
+    margin-left: -72px;
+    color: #524f49;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1;
+    font-size: 0.72222rem
+}
+
+#InvestmentCalculator .touch .draggables .draggable-value .drag-hint {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+    opacity: 1
+}
+
+#InvestmentCalculator .draggables .draggable-value .arrow {
+    position: absolute;
+    top: 50%
+}
+
+#InvestmentCalculator .draggables .draggable-value .arrow.left {
+    left: 0;
+    margin-top: -5px
+}
+
+#InvestmentCalculator .draggables .draggable-value .arrow.left:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border: solid 5px;
+    border-color: transparent #524f49 transparent transparent
+}
+
+#InvestmentCalculator .draggables .draggable-value .arrow.left:after {
+    position: absolute;
+    left: 3px;
+    top: 0;
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border: solid 5px;
+    border-color: transparent #1c1b19 transparent transparent
+}
+
+#InvestmentCalculator .draggables .draggable-value .arrow.right {
+    right: 0;
+    margin-top: -5px
+}
+
+#InvestmentCalculator .draggables .draggable-value .arrow.right:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border: solid 5px;
+    border-color: transparent transparent transparent #524f49
+}
+
+#InvestmentCalculator .draggables .draggable-value .arrow.right:after {
+    position: absolute;
+    right: 3px;
+    top: 0;
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border: solid 5px;
+    border-color: transparent transparent transparent #1c1b19
+}
+
+#InvestmentCalculator .draggables .draggable-value .value {
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 10px;
+    color: #f7f0de;
+    line-height: 60px;
+    font-weight: 800;
+    font-family: inherit;
+    font-size: 48px;
+    -webkit-font-smoothing: antialiased;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#InvestmentCalculator .draggables .draggable-value .value-label {
+    color: #7a766d;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.77778rem;
+    line-height: 2;
+    letter-spacing: 1px
+}
+
+#InvestmentCalculator .draggables .draggable-value:hover .drag-hint {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+    opacity: 1;
+}
+
+#InvestmentCalculator .draggables .draggable-value.dragging .drag-hint {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+}
+
+#InvestmentCalculator .dragging  {
+    cursor: col-resize !important;
+}
+
+#InvestmentCalculator .draggable-value {
+    cursor: pointer;
+}
+
+#InvestmentCalculator .value {
+    border: 2px solid transparent;
+    border-radius: 6px;
+}
+
+#InvestmentCalculator .value:hover,
+#InvestmentCalculator .value:active {
+    border: 2px dashed #524f49;
+}
+#InvestmentCalculator .value.editing {
+    border: 2px solid #524f49;
+}
+
+#InvestmentCalculator .value span {
+    display: inline-block;
+}
+#InvestmentCalculator .value input {
+    display: none;
+    background-color: transparent;
+    color: #f7f0de;
+    border: none;
+    outline: none;
+    padding: 0;
+    margin: 0;
+    font-weight: 800;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    text-align: center;
+    height: auto;
+}
+#InvestmentCalculator .value.editing span {
+    position: absolute;
+    visibility: hidden;
+}
+#InvestmentCalculator .value.editing input {
+    display: block;
+}
+
+#InvestmentCalculator input::selection {
+    background-color: rgba(245, 245, 245, 0.16);
+    padding: 0;
+}
+
+#InvestmentCalculator .draggables:hover .drag-hint {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0
+}
+
+#InvestmentCalculator .chart_container {
+    position: relative;
+}
+
+#InvestmentCalculator #y_axis {
+    position: absolute;
+    right: -60px;
+    top: 42px;
+    width: 60px;
+    background: var(--y-axis-bg-color);
+    z-index: 500
+}
+
+#InvestmentCalculator #chart {
+    margin: 0 30px 0 0;
+    height: 420px;
+    width: 100%;
+    border-left: none;
+    background: var(--chart-bg-color);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px
+}
+
+#InvestmentCalculator #chart .detail .dot {
+    width: 16px;
+    height: 16px;
+    margin: -8px 0 0 -8px;
+    border-width: 4px;
+    background: #f7f0de;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px
+}
+
+#InvestmentCalculator #chart .x_tick {
+    border-left: 1px solid rgba(0, 0, 0, 0.08)
+}
+
+#InvestmentCalculator #chart .x_tick:nth-of-type(2) {
+    border-left: none
+}
+
+#InvestmentCalculator #chart .y_grid .tick {
+    stroke: rgba(0, 0, 0, 0.08);
+    stroke-dasharray: 0 0
+}
+
+#InvestmentCalculator .receipt {
+    padding: 20px;
+    z-index: 999;
+    width: 360px;
+    background: var(--receipt-bg-color);
+    color: #1c1b19;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-align: left
+}
+
+#InvestmentCalculator .receipt .receipt-title {
+    margin: 0 0 -4px 0;
+    padding: 0 0 20px;
+    font-family: inherit;
+    font-size: 52px;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 1
+}
+
+#InvestmentCalculator .has-currency:before {
+    content: var(--currency);
+}
+
+#InvestmentCalculator .receipt .receipt-row {
+    *zoom: 1;
+    padding: 10px 0 10px 34px;
+    position: relative;
+    border-top: 1px solid #eee5d1
+}
+
+#InvestmentCalculator .receipt .receipt-row:before, .receipt .receipt-row:after {
+    content: "";
+    display: table
+}
+
+#InvestmentCalculator .receipt .receipt-row:after {
+    clear: both
+}
+
+#InvestmentCalculator .receipt .receipt-row-title {
+    margin: 0;
+    font-family: inherit;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 0
+}
+
+
+#InvestmentCalculator .receipt .receipt-label {
+    display: block;
+    font-size: 0.77778rem;
+    text-transform: uppercase;
+    line-height: 1.25;
+    font-weight: 600;
+    color: #888379;
+    letter-spacing: 1px
+}
+
+#InvestmentCalculator .receipt .percent {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    font-weight: 600;
+    -webkit-font-smoothing: antialiased;
+    color: #888379
+}
+
+#InvestmentCalculator .receipt .percent:before {
+    content: ''
+}
+
+#InvestmentCalculator .receipt .percent:after {
+    content: '%'
+}
+
+#InvestmentCalculator .receipt .square {
+    position: absolute;
+    top: 15px;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    background: var(--earnings-color);
+}
+
+#InvestmentCalculator .receipt .square.square-alt {
+    background: var(--savings-color);
+}
+
+#InvestmentCalculator .receipt .receipt-footer {
+    padding: 20px 0 0 0;
+    font-size: 0.77778rem;
+    line-height: 1.4;
+    color: #888379;
+    border-top: 1px solid #eee5d1
+}
+
+#InvestmentCalculator .receipt .receipt-footer p {
+    margin: 0
+}
+
+#InvestmentCalculator .receipt .receipt-subtext {
+    margin: -15px -10px 10px 0;
+    padding: 0 0 0 0;
+    font-size: 0.77778rem;
+    line-height: 1.3;
+    color: #888379
+}
+
+#InvestmentCalculator .receipt .receipt-subtext strong {
+    color: #524f49
+}
+
+#InvestmentCalculator .receipt #fourpercent {
+    font-weight: 700;
+    color: #524f49
+}
+
+#InvestmentCalculator .receipt #period {
+    cursor: pointer;
+    font-weight: 700;
+    color: #524f49;
+    border-bottom: 1px dotted #524f49
+}
+
+#InvestmentCalculator .moreoptions {
+    clear: both;
+    padding: 0 60px;
+    margin-bottom: 40px;
+    color: #5f5c55;
+    font-size: 0.83333rem;
+    padding-top: 20px;
+    text-align: center
+}
+
+#InvestmentCalculator .moreoptions span {
+    border-bottom: 1px dotted #000;
+    font-weight: 600;
+    color: #000
+}
+
+#InvestmentCalculator .moreoptions span:after {
+    content: '%'
+}
+
+#InvestmentCalculator #site-wrapper {
+    clear: both;
+    min-height: 100%;
+    height: 100%;
+    margin-bottom: -280px
+}
+
+#InvestmentCalculator #site-wrapper #site-footer-push {
+    height: 280px
+}
+
+#InvestmentCalculator #site-wrapper #site-footer {
+    clear: both;
+    position: relative;
+    height: 280px
+}
+
+#InvestmentCalculator .rickshaw_graph .detail {
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    left: -9999px;
+    z-index: 999;
+    background: #000;
+    bottom: 0;
+    width: 1px;
+    transition: opacity 0.25s linear;
+    -moz-transition: opacity 0.25s linear;
+    -o-transition: opacity 0.25s linear;
+    -webkit-transition: opacity 0.25s linear
+}
+
+#InvestmentCalculator .rickshaw_graph .detail.inactive {
+    opacity: 0
+}
+
+#InvestmentCalculator .rickshaw_graph .detail .item.active {
+    opacity: 1
+}
+
+#InvestmentCalculator .rickshaw_graph .detail .x_label {
+    font-family: inherit;
+    border-radius: 3px;
+    padding: 6px;
+    opacity: 0.5;
+    border: 1px solid #e0e0e0;
+    font-size: 12px;
+    position: absolute;
+    background: white;
+    white-space: nowrap;
+    display: none
+}
+
+#InvestmentCalculator .rickshaw_graph .detail .item {
+    position: absolute;
+    z-index: 2;
+    border-radius: 3px;
+    padding: 0.25em 0.5em;
+    font-size: 14px;
+    font-family: inherit;
+    opacity: 0;
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    margin-left: 1em;
+    margin-top: -1em;
+    white-space: nowrap
+}
+
+#InvestmentCalculator .rickshaw_graph .detail .item .date {
+    font-weight: 700
+}
+
+#InvestmentCalculator .rickshaw_graph .detail .item.active {
+    opacity: 1;
+    background: rgba(0, 0, 0, 0.8)
+}
+
+#InvestmentCalculator .rickshaw_graph .detail .item:before {
+    content: "\25c2";
+    position: absolute;
+    left: -0.5em;
+    color: rgba(0, 0, 0, 0.7);
+    width: 0
+}
+
+#InvestmentCalculator .rickshaw_graph .detail .dot {
+    width: 4px;
+    height: 4px;
+    margin-left: -4px;
+    margin-top: -3px;
+    border-radius: 5px;
+    position: absolute;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
+    background: white;
+    border-width: 2px;
+    border-style: solid;
+    display: none;
+    background-clip: padding-box
+}
+
+#InvestmentCalculator .rickshaw_graph .detail .dot.active {
+    display: block
+}
+
+#InvestmentCalculator .rickshaw_graph {
+    position: relative
+}
+
+#InvestmentCalculator .rickshaw_graph svg {
+    display: block;
+    overflow: hidden
+}
+
+#InvestmentCalculator .rickshaw_graph .x_tick {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 0;
+    border-left: 1px dotted #f7f0de;
+    pointer-events: none
+}
+
+#InvestmentCalculator .rickshaw_graph .x_tick .title {
+    position: absolute;
+    font-size: 13px;
+    font-family: inherit;
+    color: #1C1B19;
+    white-space: nowrap;
+    margin-left: 7px;
+    bottom: 1px;
+    font-weight: 600
+}
+
+#InvestmentCalculator .rickshaw_annotation_timeline {
+    height: 1px;
+    border-top: 1px solid #e0e0e0;
+    margin-top: 10px;
+    position: relative
+}
+
+#InvestmentCalculator .rickshaw_annotation_timeline .annotation {
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    margin-left: -2px;
+    top: -3px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.25)
+}
+
+#InvestmentCalculator .rickshaw_graph .annotation_line {
+    position: absolute;
+    top: 0;
+    bottom: -6px;
+    width: 0;
+    border-left: 2px solid rgba(0, 0, 0, 0.3);
+    display: none
+}
+
+#InvestmentCalculator .rickshaw_graph .annotation_line.active {
+    display: block
+}
+
+#InvestmentCalculator .rickshaw_graph .annotation_range {
+    background: rgba(0, 0, 0, 0.1);
+    display: none;
+    position: absolute;
+    top: 0;
+    bottom: -6px;
+    z-index: -10
+}
+
+#InvestmentCalculator .rickshaw_annotation_timeline .annotation .content {
+    background: white;
+    color: black;
+    opacity: 0.9;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
+    border-radius: 3px;
+    position: relative;
+    z-index: 20;
+    font-size: 12px;
+    padding: 6px 8px 8px;
+    top: 18px;
+    left: -11px;
+    width: 160px;
+    display: none;
+    cursor: pointer
+}
+
+#InvestmentCalculator .rickshaw_annotation_timeline .annotation .content:before {
+    content: "\25b2";
+    position: absolute;
+    top: -11px;
+    color: white;
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.8)
+}
+
+#InvestmentCalculator .rickshaw_annotation_timeline .annotation .content:hover {
+    z-index: 50
+}
+
+#InvestmentCalculator .rickshaw_annotation_timeline .annotation:hover .content {
+    display: block;
+    z-index: 50
+}
+
+#InvestmentCalculator .rickshaw_graph .y_ticks .tick {
+    stroke: rgba(0, 0, 0, 0.16);
+    stroke-width: 2px;
+    shape-rendering: crispEdges;
+    pointer-events: none;
+    display: none
+}
+
+#InvestmentCalculator .rickshaw_graph .y_grid path {
+    fill: none;
+    stroke: none
+}
+
+#InvestmentCalculator .rickshaw_graph .y_ticks path {
+    fill: none;
+    stroke: #808080;
+    display: none
+}
+
+#InvestmentCalculator .rickshaw_graph .y_ticks text {
+    font-size: 13px;
+    pointer-events: none;
+    font-weight: 600;
+    font-family: inherit;
+}
+
+#InvestmentCalculator .rickshaw_graph .x_tick.glow .title, .rickshaw_graph .y_ticks.glow text {
+    fill: black;
+    color: black;
+    text-shadow: -1px 1px 0 rgba(255, 255, 255, 0.1), 1px -1px 0 rgba(255, 255, 255, 0.1), 1px 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1), 0 -1px 0 rgba(255, 255, 255, 0.1), 1px 0 0 rgba(255, 255, 255, 0.1), -1px 0 0 rgba(255, 255, 255, 0.1), -1px -1px 0 rgba(255, 255, 255, 0.1)
+}
+
+#InvestmentCalculator .rickshaw_graph .x_tick.inverse .title, .rickshaw_graph .y_ticks.inverse text {
+    fill: white;
+    color: white;
+    text-shadow: -1px 1px 0 rgba(0, 0, 0, 0.8), 1px -1px 0 rgba(0, 0, 0, 0.8), 1px 1px 0 rgba(0, 0, 0, 0.8), 0 1px 0 rgba(0, 0, 0, 0.8), 0 -1px 0 rgba(0, 0, 0, 0.8), 1px 0 0 rgba(0, 0, 0, 0.8), -1px 0 0 rgba(0, 0, 0, 0.8), -1px -1px 0 rgba(0, 0, 0, 0.8)
+}
+
+#InvestmentCalculator .rickshaw_legend {
+    font-size: 12px;
+    color: white;
+    background: #404040;
+    display: inline-block;
+    padding: 12px 5px;
+    border-radius: 2px;
+    position: relative
+}
+
+#InvestmentCalculator .rickshaw_legend:hover {
+    z-index: 10
+}
+
+#InvestmentCalculator .rickshaw_legend .swatch {
+    width: 10px;
+    height: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.2)
+}
+
+#InvestmentCalculator .rickshaw_legend .line {
+    clear: both;
+    line-height: 140%;
+    padding-right: 15px
+}
+
+#InvestmentCalculator .rickshaw_legend .line .swatch {
+    display: inline-block;
+    margin-right: 3px;
+    border-radius: 2px
+}
+
+#InvestmentCalculator .rickshaw_legend .label {
+    white-space: nowrap;
+    display: inline
+}
+
+#InvestmentCalculator .rickshaw_legend .action:hover {
+    opacity: 0.6
+}
+
+#InvestmentCalculator .rickshaw_legend .action {
+    margin-right: 0.2em;
+    opacity: 0.2;
+    cursor: pointer;
+    font-size: 14px
+}
+
+#InvestmentCalculator .rickshaw_legend ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 2px;
+    cursor: pointer
+}
+
+#InvestmentCalculator .rickshaw_legend li {
+    padding: 0 0 0 2px;
+    min-width: 80px;
+    white-space: nowrap
+}
+
+#InvestmentCalculator .rickshaw_legend li:hover {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 3px
+}
+
+#InvestmentCalculator .rickshaw_legend li:active {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 3px
+}
+
+#InvestmentCalculator .detail_swatch {
+    float: right;
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin: 2px 0 0 0;
+    border-radius: 2px
+}
+
+@media (max-width: 800px) {
+    #InvestmentCalculator .receipt-title {
+        font-size: 7vw !important;
+    }
+    #InvestmentCalculator .receipt {
+        width: 45vw !important;
+    }
+    #InvestmentCalculator .receipt-row-title {
+        font-size: 4vw !important;
+    }
+    #InvestmentCalculator .draggables .draggable-value .value {
+        font-size: 5vw !important;
+    }
+}
+
+@media (max-width: 500px){
+    #InvestmentCalculator .draggables {
+        flex-direction: column;
+    }
+    #InvestmentCalculator .draggables .draggable-value {
+        width: 100%;
+    }
+    #InvestmentCalculator .draggables .draggable-value .value {
+        font-size: 6vw !important;
+    }
+    #InvestmentCalculator .draggables .draggable-value {
+        border-top: 1px solid #373531;
+    }
+    #InvestmentCalculator .draggables .draggable-value:first-child {
+        border-left: none;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+        border-radius: 0;
+    }
+
+    #InvestmentCalculator .draggables .draggable-value:last-child {
+        -webkit-border-radius: 0 0 4px 0;
+        -moz-border-radius: 0 0 4px 0;
+        -ms-border-radius: 0 0 4px 0;
+        -o-border-radius: 0 0 4px 0;
+        border-radius: 0 0 4px 4px;
+    }
+    #InvestmentCalculator .receipt .percent {
+        position: static;
+    }
+
+    #InvestmentCalculator .receipt .receipt-subtext {
+        visibility: hidden;
+        display: none;
+    }
+
+    #InvestmentCalculator .receipt .receipt-footer {
+        visibility: hidden;
+        display: none;
+    }
+    #InvestmentCalculator .moreoptions {
+        padding: 0 10px;
+    }
+}

@@ -13,12 +13,15 @@
 }
 
 .big {
+  h1 + & {
+    color: rgba(#fff, .66);
+  }
   font-family: $title-font-family;
-  font-size: 30px;
+  font-size: 27px;
   line-height: 1.25;
   small {
     display: block;
-    color: rgba(#fff, .5);
+    color: rgba(#fff, .66);
     font-size: 21px;
     margin-top: 1em;
   }
@@ -191,7 +194,7 @@
   padding-top: $spacing-unit * 1.5;
   font-size: 17px;
   line-height: 1;
-  color: rgba(#fff, .5);
+  color: rgba(#fff, .66);
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -413,14 +416,14 @@
       border-radius: 0 0 10px 10px;
     }
     .fancy {
-      color: rgba(#fff, .5);
+      color: $brand-color;
       margin-top: $spacing-unit / 1.5;
     }
   }
 
   a, span {
     color: inherit;
-    color: rgba(#fff, .5);
+    color: rgba(#fff, .66);
   }
   a {
     &:hover {
