@@ -1,12 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
+title: Contact the Author
 permalink: /contact/
 ---
-
-# Contact
 
 <form action="http://butler.dafacto.com/m4s.php" method="POST">
 

@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /blog/
+title: The Money for Something Blog
 ---
-
-# Blog
 
 <ol>
 
