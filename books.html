@@ -4,17 +4,39 @@ title: Books & Podcasts
 permalink: /books/
 ---
 
+<h2>Books</h2>
+
 {% for book in site.data.books %}
-<a href="{{ book.url }}" class="book" target="_blank">
+
+<a href="{{ book[1].url }}" class="book" target="_blank">
   <div class="book-cover">
-    <img src="/assets/img/{{ book.image }}">
+    <img src="/assets/img/{{ book[1].image }}">
   </div>
   <div class="book-info">
-    <strong>{{ book.title }}</strong><br>
-    <small>{{ book.author }}</small>
-    <p>{{ book.description }}</p>
+    <strong>{{ book[1].title }}</strong><br>
+    <small>{{ book[1].author }}</small>
+    <p>{{ book[1].description }}</p>
   </div>
 </a>
+
 {% endfor %}
+
+<h2>Podcasts</h2>
+
+{% for show in site.data.podcasts %}
+
+<a href="{{ show[1].url }}" class="book" target="_blank">
+  <div class="book-info">
+    <strong>{{ show[1].title }}</strong><br>
+    <small>{{ show[1].host }}</small>
+    <p>{{ show[1].description }}</p>
+  </div>
+</a>
+
+{% endfor %}
+
+
+
+
 
 
