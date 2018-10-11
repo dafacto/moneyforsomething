@@ -4,20 +4,21 @@
 
 layout: page
 permalink: /praise/
+title: Praise for Money for Something
 ---
-
-# Praise for Money for Something
 
 
 {% for testimonial in site.data.testimonials %}
-
-<img src="/assets/img/{{ testimonial.image }}">
-
-<strong>{{ testimonial.name }}</strong><br>
-{{ testimonial.byline }}
-
-{{ testimonial.quote }}
-
+  <div class="testimonial">
+    <p>{{ testimonial.quote }}</p>
+    <div class="testimonial-source">
+      <div><img src="/assets/img/{{ testimonial.image }}"></div>
+      <div>
+        <strong>{{ testimonial.name }}</strong><br>
+        <small>{{ testimonial.byline }}</small>
+      </div>
+    </div>
+  </div>
 {% endfor %}
 
 
