@@ -16,4 +16,4 @@ This was an improvement, but problems remained. The WordPress framework on which
 
 So this year, 2018, my Makalu colleague Alex and I have decided to make further changes. The eBook and Spanish versions have been dropped, and we’ve built the site in straight HTML and CSS, using the Jekyll site builder system, integrated with a GitHub repository, making updates dead-simple for me, and opening the door to getting help from collaborators in the future.
 
-The result is a blazingly fast and comfortable reading experience, in a single environment, that works great on desktop and mobile. I hope you enjoy it, and will help spread the word!   
+The result is a blazingly fast and comfortable reading experience, in a single environment, that works great on desktop and mobile. I hope you enjoy it, and will help spread the word! (And if you come across any bugs, please let me know!)
