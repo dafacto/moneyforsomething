@@ -95,6 +95,7 @@
 }
 
 .testimonial {
+  text-align: left;
   &:nth-child(odd) {
     margin-right: 50px;
   }
@@ -120,7 +121,7 @@
     margin: 0 0 ($spacing-unit / 1.5);
     padding: $spacing-unit;
     color: #000;
-    font: 27px/1.33 $title-font-family;
+    font: 25px/1.4 $title-font-family;
     background: #f7f7f7;
     &::after {
       content: "";
