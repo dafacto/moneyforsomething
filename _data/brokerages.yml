@@ -1,5 +1,15 @@
-- name: Schwab
+- name: Betterment
   country: USA
+  url: https://www.betterment.com
+  description: Betterment is a new form of brokerage, commonly referred to as a “robo-advisor”, in that for a very small fee, they do everything for you, from helping you choose an asset allocation, to implementing that allocation in low-cost ETFs, rebalancing when necessary, and even helping save taxes through tax-loss-harvesting. If I were starting out today, I would probably go with a service like Betterment or Wealthfront.
+  
+- name: Wealthfront
+  country: USA
+  url: https://www.wealthfront.com
+  description: Wealthfront is a robo-advisor competitor to Betterment, and would be an equally good choice.
+
+- name: Schwab
+  country: USA & International
   url: http://www.schwab.com/
   description: Schwab is one of the oldest and largest brokerages in the United States, that consistently ranks among the best in both costs and customer service. I list it first, as they are one of the few brokerages willing to open accounts for non-US citizens. Although there is no minimum balance for US citizens, there is one for non-US citizens of $10,000.
   
