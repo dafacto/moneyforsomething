@@ -14,7 +14,7 @@
 
 .big {
   font-family: $title-font-family;
-  font-size: 32px;
+  font-size: 30px;
   line-height: 1.2;
   small {
     display: block;
@@ -29,16 +29,15 @@
 }
 
 .caps {
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  font-size: 19px;
+  font-style: italic;
   font-weight: 800;
 }
 
 .fancy {
   font-family: $title-font-family;
   font-style: italic;
-  font-size: 25px;
+  font-size: 23px;
 }
 
 .nav {
@@ -551,6 +550,8 @@
     transition: opacity .1s ease-out;
     white-space: nowrap;
     color: #000;
+    font-weight: bold;
+    font-size: 15px;
   }
 
   &:hover {
