@@ -27,5 +27,3 @@ Over the course of 15 years, my investments earned an annualized return of 11%. 
 For most people, like myself, achieving financial freedom requires the consistent saving of a large portion of their income, coupled with the growth that can be realized through investing.
 
 If you commit to saving, the following chapters will teach you about investing, including concepts which are powerful enough to turn even modest savings into surprisingly large amounts of money.
-
-**But it all starts with regular savings, and the potential for your own success will ultimately be related to the amount and consistency with which you can save.**

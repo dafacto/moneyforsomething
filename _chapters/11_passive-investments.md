@@ -30,9 +30,9 @@ Indexes exist for just about every asset class in which we might want to invest�
 
 ## Why are indexes important?
 
-Financial companies offer investment products which track these indexes. For example, rather than purchase a share of Apple Inc. stock, we can purchase a share of the “Vanguard Total Stock Market” product—and with a single share purchase, buy a fractional share of over 3,000 companies found in the product’s underlying index.
+Financial companies offer investment products which track these indexes. For example, rather than purchase a share of Apple Inc. stock, we can purchase a share of the “Vanguard Total Stock Market ETF” product—and with a single share purchase, buy a fractional share of over 3,000 companies found in the product’s underlying index.
 
-With a single purchase, we’re buying nearly the entire American stock market.
+*That’s worth repeating—with a single purchase, we can buy the entire American stock market.*
 
 Index-tracking products are referred to as passive investments in that they just buy (or sell) the stocks of companies that belong to (or exit) the underlying index. No decisions involved. This is in contrast to active investment products, in which a manager (human or computer) is continually picking and choosing the stocks or assets they believe will beat the overall market.
 

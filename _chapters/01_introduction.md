@@ -5,6 +5,7 @@ permalink: /book/introduction/
 chapter: 1
 img_header: header-01.png
 img_footer:
+takeaway: Everyone should be investing.
 ---
 
 Growing up in a family of modest means, I watched my parents spend much of their lives working to pay the bills. When I was 15, I got a job at a grocery store and began working long hours to pay my own bills, often wondering whether the choice of how I spend my time would forever be tied to the need to earn money.

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Reference
+title: References from the book
 chapter: 18
 permalink: /book/references/
 img_header: header-19.png

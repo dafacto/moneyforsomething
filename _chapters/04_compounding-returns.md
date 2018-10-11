@@ -6,7 +6,7 @@ permalink: /book/compounding-returns/
 img_header: header-04.png
 img_footer: summary-04.png
 intro: The powerful force that allows even those with modest incomes to accumulate large savings.
-takeaway: Over time, and with a good rate of return, compounding earnings can turn small savings into large sums.
+takeaway: With a reasonable rate of return, compounding earnings will, over time, turn small savings into surprisingly large sums.
 ---
 
 Compounding returns is the notion of *earning money on past earnings*. If this is new to you, pay attention—this will be the most important chapter of the guide.
