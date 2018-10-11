@@ -1,17 +1,17 @@
-- title: Contact
-  url: /contact/
-
-- title: Praise for the Book
-  url: /praise/
-
 - title: About the Author
   url: /about/
+  
+- title: Praise for the Book
+  url: /praise/
 
 - title: Portfolios
   url: /portfolios/
 
 - title: Books & Podcasts
   url: /books/
+  
+- title: Blog
+  url: /blog/
   
 - title: FAQ
   url: /faq/
@@ -25,5 +25,5 @@
 - title: Copyright Notice
   url: /copyright/
 
-- title: Blog
-  url: /blog/
+- title: Contact
+  url: /contact/
