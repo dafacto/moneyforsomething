@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Money for Something
-email: matt@dafacto.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Money for Something is a book that teaches the fundamentals of the single method of investing that has worked for generations. It can be read in one hour, and is free.
 baseurl: "" # the subpath of your site, e.g. /blog
