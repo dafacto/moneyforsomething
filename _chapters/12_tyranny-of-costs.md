@@ -9,7 +9,7 @@ intro: Small costs compound into large sums over time.
 takeaway: It’s critical to minimize the costs of your investments.
 ---
 
-The same compounding mathematics that turn small savings into large savings will equally turn small costs into *surprisingly large loses over time*.
+The same compounding mathematics that turn small savings into large savings will equally turn small costs into *surprisingly large losses over time*.
 
 Nearly all investment products charge an annual management fee, sometimes in the neighborhood of 2%. At first glance, that might seem reasonable—after all, if you’re earning 8%, what’s the problem in paying 2% in fees?
 
