@@ -10,7 +10,7 @@
     --chart-bg-color: #E3D9C8;
     --receipt-bg-color: rgba(247, 240, 222, 0.9);
     --y-axis-bg-color: transparent;
-    --currency: '£';
+    --currency: '$';
 }
 
 #InvestmentCalculator {
