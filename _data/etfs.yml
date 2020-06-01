@@ -1,7 +1,7 @@
 vv:
   name: Vanguard Large-Cap Stocks ETF
   symbol: VV
-  cost: 0.05%
+  cost: 0.04%
   url: https://investor.vanguard.com/etf/profile/vv
 
 vbr:
@@ -13,7 +13,7 @@ vbr:
 vti:
   name: Vanguard Total Stock Market ETF
   symbol: VTI
-  cost: 0.04%
+  cost: 0.03%
   url: https://investor.vanguard.com/etf/profile/vti
 
 tlt:
