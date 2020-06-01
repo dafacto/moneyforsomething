@@ -9,11 +9,11 @@ intro: Here’s all you need to get started.
 takeaway: Open an account at a discount brokerage and start investing in the ETFs corresponding to your asset allocation.
 ---
 
-We’re now ready to invest! How do we get started? It’s easy—the strategy outlined in this guide can be fully implemented through a common online brokerage account.
+Now that we’re ready to invest, how do we get started? It’s easy—the strategy outlined in this book can be fully implemented through a common online brokerage account.
 
-Wheter you’re in the United States or outside, there’s no shortage of good-quality, online, discount brokerages available, several of which are listed in the [brokerages](/brokerages/) section of this website.
+Whether you’re in the United States or outside, there’s no shortage of good-quality, online, discount brokerages available, several of which are listed in the [brokerages](/brokerages/) section of this website.
 
-Once your online brokerage account is setup, you then deposit funds by making a transfer from a linked bank, or sending in a check. Once funded, you can buy and sell securities which trade on the various stock markets. As you know by now, we’ll be using the brokerage to buy and sell ETFs. Buying is literally as simple as entering the ETF symbol and number of shares you want to buy, and clicking the “Buy” button.
+Once your online brokerage account is setup, and funded with a bank transfer, you can buy and sell securities which trade on the various stock markets. As you know by now, we’ll be using the brokerage to buy and sell ETFs. Buying is literally as simple as entering the ETF symbol and number of shares you want, and clicking the “Buy” button.
 
 ## Which ETFs should I purchase?
 
@@ -44,7 +44,7 @@ The allocation in which I personally invest, called “The Golden Butterfly” i
 
 ## Why these particular ETFs?
 
-I’ve suggested ETFs issued primarily by Vanguard and iShares for two reasons. First, they are among the largest issuers, which in itself provides for some security. At present, over $21 billion are invested in Vanguard’s VTI ETF. Secondly, they are among the cheapest; for example, the Vanguard VTI ETF costs only {{ site.data.etfs.vti.cost }} per year.
+I’ve suggested ETFs issued primarily by Vanguard and iShares for two reasons. First, they are among the largest issuers, which in itself provides for some security. At present, over $125 billion are invested in Vanguard’s VTI ETF. Secondly, they are among the cheapest; for example, the Vanguard VTI ETF costs only {{ site.data.etfs.vti.cost }} per year.
 
 ## What if you live outside the United States?
 
