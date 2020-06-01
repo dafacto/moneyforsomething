@@ -9,7 +9,9 @@ intro: Sell high, buy low. Without predicting the market.
 takeaway: Periodic rebalancing preserves the risk vs return characteristics of our asset allocation, and can increase returns.
 ---
 
-Over time, as your individual asset classes increase and decrease in value, your allocation will shift from its target. **Rebalancing** brings that imbalanced allocation back in line with its target. Suppose your total portfolio value is $100 and your target allocation looks like this:
+Over time, as your purchased asset classes increase and decrease in value, your overall allocation will shift from its target. **Rebalancing** brings that imbalanced allocation back in line. 
+
+Suppose your total portfolio value is $100 and your target allocation looks like this:
 
 | Investment | Amount       | Percentage of Total |
 |------------|--------------|---------------------|
@@ -35,7 +37,7 @@ By rebalancing, we sell $10 of stocks and buy $10 of bonds, bringing the overall
 
 ## Why bother rebalancing?
 
-By continually selling what’s gone up, and buying what’s gone down, you are in the long run buying more of what is cheap and less of what is expensive, increasing returns while preserving the “risk versus return” characteristics of your target asset allocation.
+By continually selling what’s gone up, and buying what’s gone down, in the long run you are buying more of what is cheap and less of what is expensive, increasing returns while preserving the “risk versus return” characteristics of your target asset allocation.
 
 ## How often should you rebalance?
 
