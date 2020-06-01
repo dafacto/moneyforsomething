@@ -6,7 +6,7 @@ permalink: /book/diversification/
 img_header: header-08.png
 img_footer: summary-08.png
 intro: Reduce risk and increase returns by mixing unrelated investments.
-takeaway: Splitting your investments amongst unrelated asset classes both increases returns and decreases risk.
+takeaway: Distributing your investments across unrelated asset classes both increases returns and decreases risk.
 ---
 
 A fundamental concept related to risk reduction is that of **diversification**. By distributing our investments across asset classes that are not related to each other—i.e. diversifying our investments—we can *both increase overall return, while decreasing risk*.
