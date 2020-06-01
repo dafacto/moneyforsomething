@@ -43,4 +43,4 @@ In this book, to maximize diversification benefit, we recommend distributing you
 
 ## What to expect from diversification
 
-An interesting—and perhaps paradoxical—consequence of diversification is that, at all times, *some of your investments should be doing good, while others should be doing bad*. It’s important to know this up front, so that you won’t expect all your investments to do well at the same, and to know that that behavior is actually beneficial in the long run!
+An interesting—and perhaps paradoxical—consequence of diversification is that, at all times, *some of your investments should be doing good, while others should be doing bad*. It’s important to know this up front, so that you won’t expect all your investments to do well at the same, and that this behavior is *actually beneficial in the long run*!
