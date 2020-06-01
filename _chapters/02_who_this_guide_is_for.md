@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Who this guide is for
+title: Who this guide is for?
 chapter: 2
 permalink: /book/who-is-this-guide-for/
 img_header: header-02.png
