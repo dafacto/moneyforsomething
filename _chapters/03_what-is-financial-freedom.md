@@ -9,7 +9,7 @@ takeaway: Financial freedom is having enough invested savings to cover your annu
 intro: It’s not about being a billionaire.
 ---
 
-The first step is understanding the goal. For me, that goal was *financial freedom*. But we need a way to define exactly what that means.
+The first step is understanding the goal. For me, that goal was *financial freedom*. But what exactly does that even mean?
 
 ## The 25X rule
 
