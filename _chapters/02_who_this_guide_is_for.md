@@ -1,11 +1,11 @@
 ---
 layout: chapter
-title: Who this guide is for?
+title: Who this book is for?
 chapter: 2
 permalink: /book/who-is-this-guide-for/
 img_header: header-02.png
 img_footer: summary-02-short.png
-takeaway: This guide is for everyone.
+takeaway: This book is for everyone.
 intro: Hint—it’s for you!
 ---
 
