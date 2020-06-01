@@ -29,6 +29,6 @@ Over the years, my investments earned an annualized return of 11%. By age 35, th
 
 For most people, like myself, achieving financial freedom requires the consistent and disciplined saving of a large portion of their income, coupled with the growth that can be realized through investing.
 
-*You have to save.*
+*You have to consistently save.*
 
-If you commit to saving, this book will teach you how to invest those savings, including concepts which are powerful enough to turn even modest savings into surprisingly large amounts of money.
+If you commit to saving, this book will teach you how to invest those savings, and take advantage of forces that can turn even modest savings into surprisingly large amounts of money.
