@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="author-image">
-  <img src="/assets/img/matt-black-and-white.jpg">
+  <img src="/assets/img/matt-black-and-white2.jpg">
 </div>
 
 My name is Matt Henderson. I run a [design and development company](http://makaluinc.com) building products in the consumer and blockchain industries. Prior to that, I started, grew and sold an aerospace engineering company in Germany. You can learn more about me [at my blog](http://www.dafacto.com).
