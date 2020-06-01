@@ -13,7 +13,7 @@ The first step is understanding the goal. For me, that goal was *financial freed
 
 ## The 25X rule
 
-There’s a rule of thumb that says once you’ve saved 25 times your annual expenses—*you are financially free*, meaning that if you withdraw no more than 4% of your invested savings each year, it’s statistically unlikely you’ll ever run out of money.
+There’s a rule of thumb that says once you’ve saved 25 times your annual expenses—*you are financially free*. How does this work? Because, statistically, if you withdraw no more than 4% of your well-invested savings each year, it’s unlikely you’ll ever run out of money.
 
 Say you want to stop working, and need $120,000 per year to cover your expenses. In this case you’d need to save $3 million to achieve financial freedom. If you could live on $40,000 per year, you’d only need $1 million.
 
