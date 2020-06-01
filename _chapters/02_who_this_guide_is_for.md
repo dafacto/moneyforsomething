@@ -9,6 +9,10 @@ takeaway: This guide is for everyone.
 intro: Hint—it’s for you!
 ---
 
-Time is an essential ingredient in achieving financial freedom through the approach described in this guide. For that reason, this guide will be particularly relevant to those in their 20s, 30s and early 40s—i.e. those with enough time to experience the power of compounding returns.
+Time is an essential ingredient in achieving financial freedom through the investing approach described in this book.
 
-At the same time, inflation will erode the value of savings kept in a bank account, and the investing approach discussed here has historically provided a return above inflation. Regardless of age, everyone should be interested in at least preserving the value of their savings, and should therefore find valuable information in Money for Something.
+For that reason, this book will be particularly relevant to those younger than 40—i.e. those with enough time to benefit from the power of compounding returns.
+
+At the same time, inflation erodes the value of savings kept in a bank account, and the investing approach taught here has historically provided a return above inflation. 
+
+Regardless of age, *everyone* should be interested in at least preserving the value of their savings, and can therefore benefit from the information in Money for Something.
