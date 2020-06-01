@@ -5,7 +5,7 @@ chapter: 5
 permalink: /book/asset-classes/
 img_header: header-05.png
 img_footer: summary-05.png
-intro: Groups of things, rather than individual things.
+intro: Invest in groups of things, rather than individual things.
 takeaway: We should invest our savings in asset classes, rather than individual assets.
 ---
 
