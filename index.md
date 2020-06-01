@@ -4,7 +4,7 @@ title: Money for Something
 intro: Financial freedom through investing
 ---
 
-In less than an hour, I will teach you the one approach to investing that has reliably worked for generations. When finished, you’ll have everything you need to start down the road to financial freedom. 
+This is the investing book everyone should read. In less than an hour, I will teach you the one approach to investing that has reliably worked for generations. When finished, you’ll have everything you need to start down the road to financial freedom. 
 
 Check out the book’s Table of Contents below, or dive straight into [Chapter 1](/book/introduction/)!
 
