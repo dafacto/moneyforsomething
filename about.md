@@ -8,7 +8,11 @@ permalink: /about/
   <img src="/assets/img/matt-black-and-white2.jpg">
 </div>
 
-My name is Matt Henderson. I run a [design and development company](http://makaluinc.com) building products in the consumer and blockchain industries. Prior to that, I started, grew and sold an aerospace engineering company in Germany. You can learn more about me [at my blog](http://www.dafacto.com).
+## About the author
+
+My name is Matt Henderson. I run a [design and development company](http://makaluinc.com) building products in the consumer and blockchain industries. Prior to that, I started, grew and sold an aerospace engineering company in Germany. You can learn more about me [at my website](https://matthenderson.me).
+
+## About this book
 
 In my early twenties, earning minimum wage at a grocery store, I learned about an approach to investing that’s accessible to everyone, has worked for generations, and has the power to turn modest savings into surprisingly large amounts of wealth.
 
