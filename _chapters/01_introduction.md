@@ -19,6 +19,8 @@ I put the principles into practice, and over the next 20 years confirmed that th
 
 It’s profoundly important to know that the path to financial freedom is so accessible—just by following a set of basic principles, with discipline. At the same time, it’s tragic that so many never get there, simply due to lack of knowledge.
 
-**That’s why I wrote this guide.**
+The problem with most investing books, though, is that they are too long and complex. The basic message that *you should be investing* gets lost in discussion of non-essential complexities. 
 
-The problem with most investing books is that they are too long and complex. The basic message that *everyone should be investing* gets lost in discussion of non-essential complexities. My approach here is to present the core principles as concisely as possible—and in the process motivate and convince you to start investing today.
+**That’s why I wrote this book.**
+
+I set out to write a book that can be read in an hour, teaches the core principles as concisely as possible, and in the process motivates and convinces you to start investing today.
