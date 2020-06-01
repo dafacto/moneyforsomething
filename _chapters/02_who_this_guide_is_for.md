@@ -1,8 +1,8 @@
 ---
 layout: chapter
-title: Who this book is for?
+title: Who is this book for?
 chapter: 2
-permalink: /book/who-is-this-guide-for/
+permalink: /book/who-is-this-book-for/
 img_header: header-02.png
 img_footer: summary-02-short.png
 takeaway: This book is for everyone.
