@@ -10,7 +10,7 @@ permalink: /about/
 
 ## About the author
 
-My name is Matt Henderson. I’m an investor and builder in the blockchain industry. Prior to that, I started, grew and sold an aerospace engineering company in Germany. You can learn more about my story [at my website](https://dafacto.com/about), or professional career at [LinkedIn](https://www.linkedin.com/in/dafacto/).
+My name is Matt Henderson. I’m an investor and builder in the blockchain industry. Prior to that, I started, grew and sold an aerospace engineering company in Germany. You can learn more about my personal story [at my website](https://dafacto.com/about), or professional career at [LinkedIn](https://www.linkedin.com/in/dafacto/).
 
 ## About this book
 
@@ -37,6 +37,6 @@ If you like the book, I have two requests:
 
 2. If you’d like to help support the operation of this site and the blog, I accept donations in Bitcoin and Monero cryptocurrencies, via the widgets in the footer.
 
-Thanks so much, and if you’d like to say hello, [I’d love to hear from you](/contact/).
+Thanks so much, and if you’d like to say hello, [I’d love to hear from you](https://dafacto.com/contact).
 
 
