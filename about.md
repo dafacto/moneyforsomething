@@ -10,7 +10,7 @@ permalink: /about/
 
 ## About the author
 
-My name is Matt Henderson. I run a [design and development company](http://makaluinc.com) building products in the consumer and blockchain industries. Prior to that, I started, grew and sold an aerospace engineering company in Germany. You can learn more about me [at my website](https://matthenderson.me).
+My name is Matt Henderson. I’m an investor and builder in the blockchain industry. Prior to that, I started, grew and sold an aerospace engineering company in Germany. You can learn more about my story [at my website](https://dafacto.com/about).
 
 ## About this book
 
