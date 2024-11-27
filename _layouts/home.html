@@ -8,7 +8,7 @@ layout: default
     <div class="wrapper">
       <h1 class="post-title">{{ page.title | escape }}</h1>
       <p class="big">{{ page.intro }}</p>
-      <p class="big fancy">by Matt Henderson</p>
+      <!-- <p class="big fancy">by Matt Henderson</p> -->
     </div>
   </header>
 
@@ -33,7 +33,7 @@ layout: default
   <div class="section">
     <div class="wrapper">
       {% for testimonial in site.data.testimonials %}
-        {% if forloop.index < 3 %}
+        {% if forloop.index < 4 %}
           <div class="testimonial">
             <p>{{ testimonial.quote }}</p>
             <div class="testimonial-source">
