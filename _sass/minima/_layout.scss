@@ -217,7 +217,7 @@
 }
 
 .section {
-  padding: ($spacing-unit * 2) 0;
+  padding: ($spacing-unit * 1) 0; // was 2
   text-align: center;
   &.alt {
     background: #f7f7f7;
@@ -454,7 +454,7 @@
       width: 100%;
       max-width: 580px;
       margin: 0 auto;
-      margin-bottom: $spacing-unit * 1; // was 2.5
+      margin-bottom: $spacing-unit * 2.5;
       border-radius: 0 0 10px 10px;
     }
     .fancy {
