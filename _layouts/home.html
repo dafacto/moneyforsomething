@@ -18,18 +18,6 @@ layout: default
     </div>
   </div>
 
-  <div class="section alt" id="toc">
-    <div class="wrapper">
-      <h2>Table of Contents</h2>
-
-      <ol class="toc">
-      {% for chapter in site.chapters %}
-        <li><a href="{{chapter.url}}">{{ chapter.title }}</a></li>
-      {% endfor %}
-      </ol>
-    </div>
-  </div>
-
   <div class="section">
     <div class="wrapper">
       {% for testimonial in site.data.testimonials %}
@@ -51,4 +39,18 @@ layout: default
       </div>
     </div>
   </div>
+  
+  <div class="section alt" id="toc">
+    <div class="wrapper">
+      <h2>Table of Contents</h2>
+
+      <ol class="toc">
+      {% for chapter in site.chapters %}
+        <li><a href="{{chapter.url}}">{{ chapter.title }}</a></li>
+      {% endfor %}
+      </ol>
+    </div>
+  </div>
+
+
 </div>
