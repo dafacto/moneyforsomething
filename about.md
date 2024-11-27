@@ -31,11 +31,7 @@ In my business, we apply the principles of *design* to create products that are 
 
 Based on the emails I’ve received from people around the world, who after reading Money for Something got started on the path to investing, I couldn’t be happier with the results. I hope you also enjoy the book, and begin on your on path to financial freedom.
 
-If you like the book, I have two requests:
-
-1. Above all, please share it with someone. The book is free, so there’s nothing in the way of spreading investing education as far as possible.
-
-2. If you’d like to help support the operation of this site and the blog, I accept donations in Bitcoin and Monero cryptocurrencies, via the widgets in the footer.
+**If you like the book, please share it with someone. The book is free, so there’s nothing in the way of spreading investing education as far as possible.**
 
 Thanks so much, and if you’d like to say hello, [I’d love to hear from you](/contact/).
 
