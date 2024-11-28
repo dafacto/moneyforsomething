@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: A note about blockchain & crypto
+title: Blockchain & crypto
 chapter: 17
 permalink: /book/crypto/
 img_header: header-17.png
