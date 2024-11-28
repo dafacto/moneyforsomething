@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Teach a man to fish
-chapter: 17
+chapter: 18
 permalink: /book/teach/
 img_header: header-18.png
 img_footer:

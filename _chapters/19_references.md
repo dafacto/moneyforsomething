@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: References from the book
-chapter: 18
+chapter: 19
 permalink: /book/references/
 img_header: header-19.png
 img_footer: 
