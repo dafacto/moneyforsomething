@@ -12,6 +12,13 @@ random_walk:
   image: random-walk-guide.jpg
   description: Burton Malkiel is a professor of economics at Princton University, and a leading finance author. The Random Walk Guide to Investing is a simplified version of his more in-depth book, A Random Walk Down Wall Street. If I could only recommend one book, it would be this one.
  
+intelligent_asset_allocator: 
+  title: The Intelligent Asset Allocator
+  author: William J. Bernstein
+  url: https://www.amazon.com/exec/obidos/ASIN/B005XM6NRY/makalu-20/
+  image: intelligent-asset-allocator.jpg
+  description: William Bernstein is financial theorist known for his research in the field of modern portfolio theory. He’s also a leading finance author, whose in-depth books we recommend below. The Intelligent Asset Allocator is another of his most famous books.
+  
 investor_manifesto: 
   title: The Investor’s Manifesto
   author: William J. Bernstein
