@@ -6,6 +6,7 @@ permalink: /book/summary/
 img_header: header-16.png
 img_footer:
 intro: Twelve important lessons that can change your life.
+takeaway: Never forget these timeless twelve fundamentals of investing!
 ---
 
 1. **Defining financial freedom** — We can think about financial freedom in terms of the amount of savings we need to provide the income to pay our expenses. We learned a rule of thumb that if we withdraw no more than 4% of our savings per year, we’re likely to never run out of money. Based on that rule, and our annual needs, we can determine the level of savings corresponding to our own personal financial freedom.

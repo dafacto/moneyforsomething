@@ -6,6 +6,7 @@ permalink: /book/teach/
 img_header: header-18.png
 img_footer:
 intro: Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime.
+takeaway: Help me to spread the word, especially to young people!
 ---
 
 Whoever you are, I hope I’ve motivated you to take action and start investing today. It could be one of the most important decisions you ever make—it certainly was for me! 

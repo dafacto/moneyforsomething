@@ -6,6 +6,8 @@ permalink: /book/crypto/
 img_header: header-17.png
 img_footer:
 intro: What to do with this emerging asset class?
+takeaway: Investing in blockchain & cryptocurrency seems a prudent consideration. However, the risks are very high.
+
 ---
 
 Having worked in product management within the blockchain industry, I'm often asked about investing in crypto, and felt it would be useful to include a related chapter.
