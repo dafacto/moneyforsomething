@@ -5,6 +5,7 @@ chapter: 19
 permalink: /book/references/
 img_header: header-19.png
 img_footer: 
+takeaway: This book was written on the shoulder of giants!
 ---
 
 1. Chapter 3: The four percent rule — The four percent rule is discussed in more detail on page 385 of the book, <a href="{{ site.data.books.random_walk.url }}" target="_blank">{{ site.data.books.random_walk.title }}</a>, by {{ site.data.books.random_walk.author }}.
