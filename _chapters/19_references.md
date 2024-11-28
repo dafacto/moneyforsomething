@@ -19,6 +19,6 @@ img_footer:
 
 6. Chapter 10: Sample allocation performance — See 1974 to 2008 performance figures for the Permanent Portfolio versus a Stock/Bond Portfolio, at the Crawling Road blog.
 
-7. Chapter 11: Nobody beats the market in the long run — See the discussion about Gene Fama, starting on page 49 of the book, <a href="https://www.amazon.com/Investors-Manifesto-Prosperity-Armageddon-Everything/dp/1118073762">Investor’s Manifesto</a>, by William J. Bernstein.
+7. Chapter 11: Nobody beats the market in the long run — See the discussion about Gene Fama, starting on page 49 of the book, <a href="{{ site.data.books.investor_manifesto.url }}">{{ site.data.books.investor_manifesto.title }}</a>, by {{ site.data.books.investor_manifesto.author }}.
 
 8. Chapter 11: Chart on the chances of beating the market — See page 124 of the book, <a href="https://www.amazon.com/Little-Book-Common-Sense-Investing-ebook/dp/B075Z6HSCJ/makalu-20/">The Little Book of Common Sense Investing</a>, by John C. Bogle.
