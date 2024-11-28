@@ -35,7 +35,7 @@ For example, it wouldn't seem prudent for someone close to retirement to hold a 
 
 As one data point, Wences Casares, famed "Silicon Valley Bitcoin Patient Zero", historically recommended a 5% allocation to Bitcoin. If things work out as he expects, that 5% will do wonders for your overall portfolio, and if it goes to zero, you'll survive. 
 
-Here's a link to a [BlackRock report](https://www.blackrock.com/us/financial-professionals/literature/whitepaper/bitcoin-a-unique-diversifier.pdf) abut Bitcoin in particular as a portfolio diversifier.
+Here's a link to a [BlackRock report](https://www.blackrock.com/us/financial-professionals/literature/whitepaper/bitcoin-a-unique-diversifier.pdf) about Bitcoin in particular as a portfolio diversifier.
 
 ## A warning
 
@@ -45,6 +45,6 @@ We even now have on-chain data that demonstrates that, just like in the traditio
 
 ## In conclusion...
 
-My recommendation for anyone deciding to invest in cryptocurrencies to follow the high-level approach outlined in this book, and try your very best to not get pulled into the multitude of near irresistible forces — from behavioral finance errors, to YouTube “influencers”, to experts in timing the market cycles" — that will, probabilistically, result in the loss of your money.
+My suggestion for anyone deciding to invest in cryptocurrencies is to follow the high-level approach outlined in this book, and try your very best to not get pulled into the multitude of near irresistible forces — from behavioral finance errors, to YouTube “influencers”, to experts in timing the market cycles" — that will, probabilistically, result in the loss of your money.
 
 (It you would be interested in a separate guide on how to operate on crypto networks, please drop me a note on the contact page.)
